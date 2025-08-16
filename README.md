@@ -1,1 +1,168 @@
+# 🌊 Mundo Marino – Turismo Náutico Sostenible en el Mediterráneo
 
+## 🧭 Visión general
+
+**Mundo Marino** es una marca comercial operada por **Innova Cruceros S.L.**, empresa familiar fundada en **1996** en **Dénia, Alicante**, especializada en turismo náutico, excursiones en catamarán y eventos marítimos sostenibles. Con más de **25 años de experiencia**, ha expandido su actividad a múltiples puertos del Mediterráneo español, convirtiéndose en un referente en innovación, sostenibilidad y calidad turística.
+
+---
+
+## 🧾 Datos legales
+
+- **Razón social**: Innova Cruceros S.L.  
+- **CIF/NIF**: B96571708  
+- **Fecha de constitución**: 22 de agosto de 1996  
+- **Domicilio social**: Avenida Joan Fuster, 2 – 03700 Dénia, Alicante  
+- **Actividad principal**: Transporte marítimo de pasajeros, excursiones turísticas, alquiler de embarcaciones  
+- **CNAE**: 7911 – Actividades de agencias de viajes  
+- **Administrador único**: David de Haro Malo de Molina  
+- **Capital social**: >60.000 €  
+- **Empleados**: ~53  
+- **Empresas vinculadas**: Mundo Marino Catamarán S.L., Mundo Marino Experience S.L., Magic Excursiones S.L.
+
+---
+
+## ⚓ Puertos donde opera
+
+### Comunidad Valenciana
+- Dénia  
+- Jávea / Xàbia  
+- Calpe  
+- Altea  
+- Valencia  
+- Alicante (ocasionalmente)
+
+### Andalucía
+- Málaga
+
+---
+
+## 🚢 Flota
+
+| Nombre del barco       | Tipo                  | Capacidad | Características principales                          |
+|------------------------|-----------------------|-----------|------------------------------------------------------|
+| Mundo Marino I         | Catamarán a vela      | 100 pax   | Redes de proa, bar, música ambiente, zona techada    |
+| Mundo Marino II        | Catamarán a vela      | 124 pax   | Vela gigante, zona cubierta, sonido, baños           |
+| Estrella Fugaz         | Catamarán a motor     | 250 pax   | Visión submarina, climatización, eventos premium     |
+| Mundo Marino ECO       | Catamarán híbrido     | 250 pax   | Motor eléctrico, paneles solares, regeneración       |
+| Catamarán Calpe        | Catamarán a vela      | ~100 pax  | Excursiones costeras, baño, puesta de sol            |
+| Catamarán Jávea        | Catamarán a vela      | ~100 pax  | Tours por calas, música en vivo, snorkel             |
+
+---
+
+## 🌱 Sostenibilidad
+
+**Mundo Marino ECO** es el catamarán más sostenible de España:
+
+- Propulsión híbrida (vela + motor eléctrico Torqeedo Deep Blue)  
+- Paneles solares y regeneración energética  
+- Cero emisiones locales y navegación silenciosa  
+- No fondeo agresivo (protección de posidonia)  
+- Producción de agua potable a bordo  
+- Materiales reciclados y reciclables
+
+### 📉 Huella de carbono
+
+- **Huella total estimada**: 150 toneladas de CO₂ equivalente (2022)  
+- **Reducción del 60%** respecto a embarcaciones convencionales  
+- **Huella por pasajero/km**: inferior a la de un coche eléctrico o tren
+
+### 🏅 Certificaciones y alianzas
+
+- Certificación **SICTED**  
+- Miembro de **Empresas por el Clima**, **Green & Human**, **NetZero**  
+- Premio a la **Iniciativa Empresarial** en los Premios de Turismo de Málaga 2022
+
+---
+
+## ♿️ Accesibilidad
+
+- Rampas móviles para embarque  
+- Circulación parcial en silla de ruedas  
+- Baños accesibles (sin barras de apoyo ni giro completo)  
+- Iluminación adecuada y pavimentos antideslizantes  
+- Personal formado para asistencia básica  
+- Aparcamiento reservado para PMR junto al embarque
+
+---
+
+## 🧑‍💼 Eventos corporativos y privados
+
+### Tipos de eventos
+- Reuniones corporativas y team building  
+- Eventos MICE  
+- Presentaciones de producto  
+- Bodas, aniversarios, cumpleaños  
+- Fiestas privadas con DJ o música en vivo
+
+### Servicios disponibles
+- Catering: paella, barbacoa, cócteles, show cooking  
+- Equipo de sonido, micrófono, pantallas  
+- Música ambiente o DJ  
+- Solárium, redes de proa, zonas techadas  
+- Escaleras y toboganes de baño
+
+---
+
+## 🗺️ Excursiones destacadas
+
+### Dénia
+- Puesta de sol en catamarán  
+- Cova Tallada y reserva marina  
+- Parasailing y snorkel  
+- Fiestas ibicencas y fuegos artificiales
+
+### Jávea / Xàbia
+- Tour por la bahía con baño  
+- Jazz en vivo y puestas de sol con cava
+
+### Calpe
+- Paseos al Peñón de Ifach  
+- Excursiones costeras con baño y paella
+
+### Altea
+- Mini cruceros, navegación costera, eventos privados
+
+### Valencia
+- Excursión por la bahía  
+- Blue Flag Tour con música en vivo
+
+### Málaga
+- Excursión con paella y baño  
+- Eventos premium con DJ  
+- Paseos al atardecer con copa de cava
+
+---
+
+## 🧬 Historia y valores
+
+- Empresa familiar con fuerte arraigo local  
+- Turismo responsable y sostenible  
+- Educación ambiental y divulgación científica  
+- Participación en eventos internacionales:
+  - SailGP  
+  - Copa América  
+  - Volvo Ocean Race  
+  - The Ocean Race
+
+---
+
+## 📊 Datos estructurados (JSON)
+
+```json
+{
+  "empresa": "Innova Cruceros S.L.",
+  "marca_comercial": "Mundo Marino",
+  "fundación": 1996,
+  "puertos": ["Dénia", "Jávea", "Calpe", "Altea", "Valencia", "Málaga"],
+  "flota": [
+    {
+      "nombre": "Mundo Marino ECO",
+      "tipo": "Catamarán híbrido",
+      "capacidad": 250,
+      "sostenible": true,
+      "huella_carbono_tn": 150
+    }
+  ],
+  "certificaciones": ["SICTED", "Empresas por el Clima", "Green & Human"],
+  "actividades": ["Puesta de sol", "Eventos privados", "Parasailing", "Tours educativos"]
+}
