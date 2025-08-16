@@ -1,0 +1,97 @@
+{
+  "company": {
+    "legal_name": "Innova Cruceros S.L.",
+    "brand": "Mundo Marino",
+    "tax_id": "B96571708",
+    "founded": 1996,
+    "headquarters": "Avenida Joan Fuster, 2 – 03700 Dénia, Alicante, Spain",
+    "administrator": "David de Haro Malo de Molina",
+    "employees": 53,
+    "share_capital_eur": 60000,
+    "website": "https://mundomarino.es",
+    "certifications": [
+      "SICTED",
+      "Empresas por el Clima",
+      "Green & Human",
+      "NetZero"
+    ]
+  },
+  "ports": [
+    "Dénia",
+    "Jávea",
+    "Calpe",
+    "Altea",
+    "Valencia",
+    "Málaga"
+  ],
+  "fleet": [
+    {
+      "name": "Mundo Marino ECO",
+      "type": "Hybrid catamaran",
+      "capacity": 250,
+      "propulsion": ["sail", "electric motor"],
+      "sustainable": true,
+      "solar_panels": true,
+      "energy_regeneration": true,
+      "local_emissions": "zero",
+      "carbon_footprint_tn_per_year": 150
+    },
+    {
+      "name": "Estrella Fugaz",
+      "type": "Motor catamaran",
+      "capacity": 250,
+      "underwater_viewing": true,
+      "air_conditioning": true
+    },
+    {
+      "name": "Mundo Marino I",
+      "type": "Sailing catamaran",
+      "capacity": 100,
+      "bow_nets": true,
+      "shaded_area": true
+    },
+    {
+      "name": "Mundo Marino II",
+      "type": "Sailing catamaran",
+      "capacity": 124,
+      "covered_area": true,
+      "restrooms": true
+    }
+  ],
+  "activities": [
+    "Sunset cruises",
+    "Swimming tours in protected coves",
+    "Parasailing",
+    "Snorkeling",
+    "Corporate events",
+    "Weddings and private celebrations",
+    "Private parties with DJ",
+    "Live jazz and blues",
+    "Show cooking",
+    "Educational tours on marine sustainability"
+  ],
+  "accessibility": {
+    "boarding_ramp": true,
+    "wheelchair_access": "partial",
+    "accessible_restrooms": "no support bars, limited turning space",
+    "trained_staff": true,
+    "pmr_parking_nearby": true
+  },
+  "sustainability": {
+    "carbon_footprint_tn_per_year": 150,
+    "reduction_vs_conventional": "60%",
+    "renewable_energy": true,
+    "recycled_materials": true,
+    "no_aggressive_anchoring": true,
+    "onboard_water_production": true
+  },
+  "events": {
+    "corporate": true,
+    "mice": true,
+    "weddings": true,
+    "private_parties": true,
+    "catering_options": ["paella", "barbecue", "cocktails"],
+    "music_options": ["DJ", "jazz", "blues"],
+    "equipment": ["sound system", "screens", "microphone"]
+  }
+}
