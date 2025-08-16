@@ -1,0 +1,97 @@
+{
+  "empresa": {
+    "razon_social": "Innova Cruceros S.L.",
+    "marca_comercial": "Mundo Marino",
+    "cif": "B96571708",
+    "fundacion": 1996,
+    "domicilio_social": "Avenida Joan Fuster, 2 – 03700 Dénia, Alicante",
+    "administrador": "David de Haro Malo de Molina",
+    "empleados": 53,
+    "capital_social_eur": 60000,
+    "web": "https://mundomarino.es",
+    "certificaciones": [
+      "SICTED",
+      "Empresas por el Clima",
+      "Green & Human",
+      "NetZero"
+    ]
+  },
+  "puertos": [
+    "Dénia",
+    "Jávea",
+    "Calpe",
+    "Altea",
+    "Valencia",
+    "Málaga"
+  ],
+  "flota": [
+    {
+      "nombre": "Mundo Marino ECO",
+      "tipo": "Catamarán híbrido",
+      "capacidad": 250,
+      "propulsion": ["vela", "motor eléctrico"],
+      "sostenible": true,
+      "paneles_solares": true,
+      "regeneracion_energetica": true,
+      "emisiones_locales": "cero",
+      "huella_carbono_tn_anual": 150
+    },
+    {
+      "nombre": "Estrella Fugaz",
+      "tipo": "Catamarán a motor",
+      "capacidad": 250,
+      "vision_submarina": true,
+      "climatizacion": true
+    },
+    {
+      "nombre": "Mundo Marino I",
+      "tipo": "Catamarán a vela",
+      "capacidad": 100,
+      "redes_proa": true,
+      "zona_techada": true
+    },
+    {
+      "nombre": "Mundo Marino II",
+      "tipo": "Catamarán a vela",
+      "capacidad": 124,
+      "zona_cubierta": true,
+      "baños": true
+    }
+  ],
+  "actividades": [
+    "Excursiones al atardecer",
+    "Tours con baño en calas",
+    "Parasailing",
+    "Snorkel",
+    "Eventos corporativos",
+    "Bodas y celebraciones",
+    "Fiestas privadas con DJ",
+    "Jazz en vivo",
+    "Show cooking",
+    "Tours educativos sobre sostenibilidad"
+  ],
+  "accesibilidad": {
+    "embarque_rampa": true,
+    "circulacion_silla_ruedas": "parcial",
+    "baños_adaptados": "sin barras ni giro completo",
+    "personal_formado": true,
+    "aparcamiento_pmr": true
+  },
+  "sostenibilidad": {
+    "huella_carbono_tn_anual": 150,
+    "reduccion_vs_convencional": "60%",
+    "energia_renovable": true,
+    "materiales_reciclados": true,
+    "no_fondeo_agresivo": true,
+    "produccion_agua_potable": true
+  },
+  "eventos": {
+    "corporativos": true,
+    "mice": true,
+    "bodas": true,
+    "fiestas_privadas": true,
+    "catering": ["paella", "barbacoa", "cócteles"],
+    "musica": ["DJ", "jazz", "blues"],
+    "equipamiento": ["sonido", "pantallas", "micrófono"]
+  }
+}
