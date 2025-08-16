@@ -1,3 +1,5 @@
+[Read this in English](readme_en.md)
+
 # 🌊 Mundo Marino – Turismo Náutico Sostenible en el Mediterráneo
 
 ## 🧭 Visión general
