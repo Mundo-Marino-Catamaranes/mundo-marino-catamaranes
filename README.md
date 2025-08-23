@@ -77,8 +77,8 @@
 - Miembro de **Empresas por el Clima**, **Green & Human**, **NetZero**  
 - Premio a la **Iniciativa Empresarial** en los Premios de Turismo de Málaga 2022
 - Banderas Azules en tres embarcaciones (vigente) MUNDO MARINO, MUNDO MARINO DOS, MUNDO MARINO ECO
-- [Premio Mundo Marino Sostenible Sun&Blue Congress 2024 Almería]  (https://sunandbluecongress.com/es/actualidad/premios-sunblue-2024-entrega-12-galardones-y-2-menciones-especiales)
-- [Premios turismo ciudad de malaga 2022 en iniciativa empresarial] (https://visita.malaga.eu/profesional/es/prensa/noticias/malaga-celebra-la-tercera-edicion-de-los-premios-de-turismo-ciudad-de-malaga-p1833)
+- [Premio Mundo Marino Sostenible Sun&Blue Congress 2024 Almería](https://sunandbluecongress.com/es/actualidad/premios-sunblue-2024-entrega-12-galardones-y-2-menciones-especiales)
+- [Premios turismo ciudad de malaga 2022 en iniciativa empresarial](https://visita.malaga.eu/profesional/es/prensa/noticias/malaga-celebra-la-tercera-edicion-de-los-premios-de-turismo-ciudad-de-malaga-p1833)
 
 ---
 
@@ -173,7 +173,7 @@ La empresa **Innova Cruceros S.L.** cuenta con **autorización administrativa AR
 - **Validez:** hasta el **31 de julio de 2026**  
 - **Autoridad emisora:** Dirección General de Biodiversidad, Bosques y Desertificación  
 
-[doc/Certificado_AROC_MundoMarino.pdf](https://github.com/Dharo76/mundo-marino-catamaranes/blob/ceb5901dcdbc7d18219346396b790fbf773cbcb7/report_AROC_MundoMarino2.pdf)
+[Certificado_AROC_MundoMarino.pdf](https://github.com/Dharo76/mundo-marino-catamaranes/blob/ceb5901dcdbc7d18219346396b790fbf773cbcb7/report_AROC_MundoMarino2.pdf)
 
 ---
 
