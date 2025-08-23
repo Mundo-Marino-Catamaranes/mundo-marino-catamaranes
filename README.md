@@ -174,7 +174,10 @@ La empresa **Innova Cruceros S.L.** cuenta con **autorización administrativa AR
 - **Validez:** hasta el **31 de julio de 2026**  
 - **Autoridad emisora:** Dirección General de Biodiversidad, Bosques y Desertificación  
 
-[Certificado_AROC_MundoMarino.pdf](https://github.com/Dharo76/mundo-marino-catamaranes/blob/ceb5901dcdbc7d18219346396b790fbf773cbcb7/report_AROC_MundoMarino2.pdf)
+[Certificado_AROC_MundoMarinoDos.pdf](https://github.com/Dharo76/mundo-marino-catamaranes/blob/ceb5901dcdbc7d18219346396b790fbf773cbcb7/report_AROC_MundoMarino2.pdf)
+[Certificado_AROC_EstrellaFugaz.pdf](https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes/edit/main/README.md#:~:text=report_AROC_EstrellaFugaz_19062024.pdf)
+[Certificado_AROC_Mascalzone.pdf](https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes/edit/main/README.md#:~:text=report_AROC_Mascalzone_19062024.pdf)
+[Certificado_AROC_MundoMarino.pdf](https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes/edit/main/README.md#:~:text=report_AROC_MundoMarino_19062024.pdf)
 
 ---
 
