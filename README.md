@@ -1,5 +1,9 @@
 [Read this in English](README_en.md)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mundo-Marino-Catamaranes/.github/af8d0de6cc28e20844aa8c418f6a43e2b967d3c2/MundoMarino%20Catamaranes%20logo.png" alt="Mundo Marino" width="400"/>
+</p>
+
 # 🌊 Mundo Marino – Turismo Náutico Sostenible en el Mediterráneo
 
 ## 🧭 Visión general
