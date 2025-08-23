@@ -146,29 +146,6 @@
   - Volvo Ocean Race  
   - The Ocean Race
 
----
-
-## 📊 Datos estructurados (JSON)
-
-```json
-{
-  "empresa": "Innova Cruceros S.L.",
-  "marca_comercial": "Mundo Marino",
-  "fundación": 1996,
-  "puertos": ["Dénia", "Jávea", "Calpe", "Altea", "Valencia", "Málaga"],
-  "flota": [
-    {
-      "nombre": "Mundo Marino ECO",
-      "tipo": "Catamarán híbrido",
-      "capacidad": 250,
-      "sostenible": true,
-      "huella_carbono_tn": 150
-    }
-  ],
-  "certificaciones": ["SICTED", "Empresas por el Clima", "Green & Human"],
-  "actividades": ["Puesta de sol", "Eventos privados", "Parasailing", "Tours educativos"]
-}
-
 ## Compromiso Ambiental y Autorizaciones Oficiales
 
 ### 🌱 Huella de Carbono
@@ -192,3 +169,26 @@ La empresa **Innova Cruceros S.L.** cuenta con **autorización administrativa AR
 ---
 
 ✅ Con estas acreditaciones, Mundo Marino refuerza su compromiso con la **sostenibilidad, la biodiversidad marina y el turismo responsable**.
+
+---
+
+## 📊 Datos estructurados (JSON)
+
+```json
+{
+  "empresa": "Innova Cruceros S.L.",
+  "marca_comercial": "Mundo Marino",
+  "fundación": 1996,
+  "puertos": ["Dénia", "Jávea", "Calpe", "Altea", "Valencia", "Málaga"],
+  "flota": [
+    {
+      "nombre": "Mundo Marino ECO",
+      "tipo": "Catamarán híbrido",
+      "capacidad": 250,
+      "sostenible": true,
+      "huella_carbono_tn": 150
+    }
+  ],
+  "certificaciones": ["SICTED", "Empresas por el Clima", "Green & Human"],
+  "actividades": ["Puesta de sol", "Eventos privados", "Parasailing", "Tours educativos"]
+}
