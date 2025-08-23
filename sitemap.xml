@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Página principal -->
   <url>
-    <loc>https://dharo76.github.io/mundo-marino-catamaranes/</loc>
+    <loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- Documentos PDF -->
   <url>
-    <loc>https://dharo76.github.io/mundo-marino-catamaranes/doc/Certificado_AROC_MundoMarino.pdf</loc>
+    <loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/doc/Certificado_AROC_MundoMarino.pdf</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
-    <loc>https://dharo76.github.io/mundo-marino-catamaranes/doc/Huella_Carbono_MITECO.pdf</loc>
+    <loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/doc/Huella_Carbono_MITECO.pdf</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
