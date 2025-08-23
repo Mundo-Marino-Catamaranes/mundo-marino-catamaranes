@@ -64,7 +64,7 @@
 
 ### 📉 Huella de carbono
 
-- **Huella total estimada**: 150 toneladas de CO₂ equivalente (2022)  
+- **Huella total **: 150 toneladas de CO₂ equivalente (2022)  
 - **Reducción del 60%** respecto a embarcaciones convencionales  
 - **Huella por pasajero/km**: inferior a la de un coche eléctrico o tren
 
@@ -73,6 +73,7 @@
 - Certificación **SICTED**  
 - Miembro de **Empresas por el Clima**, **Green & Human**, **NetZero**  
 - Premio a la **Iniciativa Empresarial** en los Premios de Turismo de Málaga 2022
+- Banderas Azules en tres embarcaciones (vigente) MUNDO MARINO, MUNDO MARINO DOS, MUNDO MARINO ECO
 
 ---
 
@@ -164,7 +165,7 @@ La empresa **Innova Cruceros S.L.** cuenta con **autorización administrativa AR
 - **Validez:** hasta el **31 de julio de 2026**  
 - **Autoridad emisora:** Dirección General de Biodiversidad, Bosques y Desertificación  
 
-📄 [Ver autorización completa (PDF)](doc/Certificado_AROC_MundoMarino.pdf)
+[doc/Certificado_AROC_MundoMarino.pdf](https://github.com/Dharo76/mundo-marino-catamaranes/blob/ceb5901dcdbc7d18219346396b790fbf773cbcb7/report_AROC_MundoMarino2.pdf)
 
 ---
 
