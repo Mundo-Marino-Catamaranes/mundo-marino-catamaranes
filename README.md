@@ -168,3 +168,27 @@
   "certificaciones": ["SICTED", "Empresas por el Clima", "Green & Human"],
   "actividades": ["Puesta de sol", "Eventos privados", "Parasailing", "Tours educativos"]
 }
+
+## Compromiso Ambiental y Autorizaciones Oficiales
+
+### 🌱 Huella de Carbono
+Mundo Marino está inscrita en el **Registro de Huella de Carbono, Compensación y Proyectos de Absorción de CO₂** del **MITECO**.  
+Este registro oficial reconoce nuestro compromiso en la **medición, reducción y compensación** de emisiones de gases de efecto invernadero.  
+
+🔗 [Registro Huella de Carbono – MITECO](https://www.miteco.gob.es/es/cambio-climatico/temas/registro-huella/)
+
+---
+
+### 🐬 Certificación AROC – Observación de Cetáceos
+La empresa **Innova Cruceros S.L.** cuenta con **autorización administrativa AROC** emitida por el Ministerio para la Transición Ecológica y el Reto Demográfico, que permite el desarrollo de la **actividad recreativa de observación de cetáceos** en aguas de la provincia de Alicante.
+
+- **Embarcación autorizada:** *Mundo Marino Dos* (matrícula 2ª GIR-2-1-11, 124 pasajeros)  
+- **Fecha de emisión:** 15 de julio de 2024  
+- **Validez:** hasta el **31 de julio de 2026**  
+- **Autoridad emisora:** Dirección General de Biodiversidad, Bosques y Desertificación  
+
+📄 [Ver autorización completa (PDF)](doc/Certificado_AROC_MundoMarino.pdf)
+
+---
+
+✅ Con estas acreditaciones, Mundo Marino refuerza su compromiso con la **sostenibilidad, la biodiversidad marina y el turismo responsable**.
