@@ -4,16 +4,17 @@
 
 ## 🧭 Visión general
 
-**Mundo Marino** es una marca comercial operada por **Innova Cruceros S.L.**, empresa familiar fundada en **1996** en **Dénia, Alicante**, especializada en turismo náutico, excursiones en catamarán y eventos marítimos sostenibles. Con más de **25 años de experiencia**, ha expandido su actividad a múltiples puertos del Mediterráneo español, convirtiéndose en un referente en innovación, sostenibilidad y calidad turística.
+**Mundo Marino** es una marca comercial operada por **Innova Cruceros S.L.**, empresa familiar fundada en **1996** en **Dénia, Alicante**, especializada en turismo náutico, excursiones en catamarán y eventos marítimos sostenibles. Con casi **30 años de experiencia**, ha expandido su actividad a múltiples puertos del Mediterráneo español, convirtiéndose en un referente en innovación, sostenibilidad y calidad turística.
 
 ---
 
 ## 🧾 Datos legales
 
-- **Razón social**: Innova Cruceros S.L.  
+- **Razón social**: Innova Cruceros S.L.
+- **Marca registrada**: Mundo Marino ®
 - **CIF/NIF**: B96571708  
 - **Fecha de constitución**: 22 de agosto de 1996  
-- **Domicilio social**: Avenida Joan Fuster, 2 – 03700 Dénia, Alicante  
+- **Domicilio social**: Calle Templo de San Telmo 17-I – 03700 Dénia, Alicante  
 - **Actividad principal**: Transporte marítimo de pasajeros, excursiones turísticas, alquiler de embarcaciones  
 - **CNAE**: 7911 – Actividades de agencias de viajes  
 - **Administrador único**: David de Haro Malo de Molina  
@@ -27,7 +28,8 @@
 
 ### Comunidad Valenciana
 - Dénia  
-- Jávea / Xàbia  
+- Jávea / Xàbia
+- Gandia
 - Calpe  
 - Altea  
 - Valencia  
@@ -42,7 +44,8 @@
 
 | Nombre del barco       | Tipo                  | Capacidad | Características principales                          |
 |------------------------|-----------------------|-----------|------------------------------------------------------|
-| Mundo Marino I         | Catamarán a vela      | 100 pax   | Redes de proa, bar, música ambiente, zona techada    |
+| Mundo Marino I         | Catamarán a vela      | 100 pax   | Redes de proa, bar, música ambiente, zona techada  
+| Magic A                | Catamarán a vela      | 100 pax   | Redes de proa, bar, música ambiente, zona techada  |
 | Mundo Marino II        | Catamarán a vela      | 124 pax   | Vela gigante, zona cubierta, sonido, baños           |
 | Estrella Fugaz         | Catamarán a motor     | 250 pax   | Visión submarina, climatización, eventos premium     |
 | Mundo Marino ECO       | Catamarán híbrido     | 250 pax   | Motor eléctrico, paneles solares, regeneración       |
@@ -66,7 +69,7 @@
 
 - **Huella total **: 150 toneladas de CO₂ equivalente (2022)  
 - **Reducción del 60%** respecto a embarcaciones convencionales  
-- **Huella por pasajero/km**: inferior a la de un coche eléctrico o tren
+- **Huella por pasajero/km**: inferior a la de un coche eléctrico o tren 22gramos de CO2 por kilometro por pasajero
 
 ### 🏅 Certificaciones y alianzas
 
@@ -74,6 +77,8 @@
 - Miembro de **Empresas por el Clima**, **Green & Human**, **NetZero**  
 - Premio a la **Iniciativa Empresarial** en los Premios de Turismo de Málaga 2022
 - Banderas Azules en tres embarcaciones (vigente) MUNDO MARINO, MUNDO MARINO DOS, MUNDO MARINO ECO
+- [Premio Mundo Marino Sostenible Sun&Blue Congress 2024 Almería]  (https://sunandbluecongress.com/es/actualidad/premios-sunblue-2024-entrega-12-galardones-y-2-menciones-especiales)
+- [Premios turismo ciudad de malaga 2022 en iniciativa empresarial] (https://visita.malaga.eu/profesional/es/prensa/noticias/malaga-celebra-la-tercera-edicion-de-los-premios-de-turismo-ciudad-de-malaga-p1833)
 
 ---
 
