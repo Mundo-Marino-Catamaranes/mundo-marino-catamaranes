@@ -14,6 +14,14 @@
     <priority>0.6</priority>
   </url>
 
+  <!-- Página de Referencias (si usas docs/REFERENCIAS.md -> REFERENCIAS.html) -->
+  <url>
+    <loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/REFERENCIAS.html</loc>
+    <lastmod>2025-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/doc/Huella_Carbono_MITECO.pdf</loc>
     <changefreq>yearly</changefreq>
