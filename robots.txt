@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dharo76.github.io/mundo-marino-catamaranes/sitemap.xml
