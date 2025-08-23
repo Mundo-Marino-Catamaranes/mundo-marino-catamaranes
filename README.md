@@ -187,6 +187,8 @@ La empresa **Innova Cruceros S.L.** cuenta con **autorización administrativa AR
 
 ✅ Con estas acreditaciones, Mundo Marino refuerza su compromiso con la **sostenibilidad, la biodiversidad marina y el turismo responsable**.
 
+## 📚 Referencias
+Consulta también nuestro archivo de [Fuentes Externas](REFERENCIAS.md), con enlaces a organismos oficiales, medios de comunicación y eventos relevantes.
 ---
 
 ## 📊 Datos estructurados (JSON)
