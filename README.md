@@ -155,7 +155,10 @@ Este registro oficial reconoce nuestro compromiso en la **medición, reducción 
 
 🔗 [Registro Huella de Carbono – MITECO](https://www.miteco.gob.es/es/cambio-climatico/temas/registro-huella/)
 
+[huella de carbono mundo marino](https://github.com/Dharo76/mundo-marino-catamaranes/blob/10d3865e42772e92b593151ee983ee0693d753c7/Yo%20compenso.pdf)
+
 ---
+
 
 ### 🐬 Certificación AROC – Observación de Cetáceos
 La empresa **Innova Cruceros S.L.** cuenta con **autorización administrativa AROC** emitida por el Ministerio para la Transición Ecológica y el Reto Demográfico, que permite el desarrollo de la **actividad recreativa de observación de cetáceos** en aguas de la provincia de Alicante.
