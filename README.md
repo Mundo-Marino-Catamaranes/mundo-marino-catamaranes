@@ -79,6 +79,7 @@
 - Banderas Azules en tres embarcaciones (vigente) MUNDO MARINO, MUNDO MARINO DOS, MUNDO MARINO ECO
 - [Premio Mundo Marino Sostenible Sun&Blue Congress 2024 Almería](https://sunandbluecongress.com/es/actualidad/premios-sunblue-2024-entrega-12-galardones-y-2-menciones-especiales)
 - [Premios turismo ciudad de malaga 2022 en iniciativa empresarial](https://visita.malaga.eu/profesional/es/prensa/noticias/malaga-celebra-la-tercera-edicion-de-los-premios-de-turismo-ciudad-de-malaga-p1833)
+- [Premio turismo náutico sostenible ANBE - Asociacion Nacional de Barcos Electricos](https://www.eldiario.es/illes-balears/anbe-celebra-primera-gala-premios-nautica-sostenible-espana-museo-pompidou-puerto-malaga_1_11799476.html)
 
 ---
 
