@@ -16,6 +16,9 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 
 - *Puertos Deportivos Info* (27 jun. 2024): Taller práctico de observación del plancton en Marina de Dénia.  
   [puertosdeportivos.info](https://puertosdeportivos.info/2024/06/27/marina-denia-acoge-un-taller-practico-de-observacion-del-plancton-marino/)
+  
+- *Híbridos y Eléctricos* (10 abr. 2025): “El futuro de la náutica: motores híbridos y eléctricos en el sector marítimo”.  
+  [hibridosyelectricos.com](https://www.hibridosyelectricos.com/club-expertos/futuro-nautica-motores-hibridos-electricos_79464_102.html)
 
 ---
 
