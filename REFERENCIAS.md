@@ -67,6 +67,28 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 - *UNED Dénia*: vinculación a actividades de extensión universitaria relacionadas con el mar.  
   [UNED](https://extension.uned.es/actividad/idactividad/38419&idioma=ca)
 
+  ## 📚 Publicaciones Académicas / Academic Publications
+
+### La transformación del turismo náutico en España: de las golondrinas tradicionales a los cruceros costeros
+
+**Autor:** David de Haro Malo de Molina  
+**Revista:** Revista de Ordenación del Sector Marítimo (ROSM), Vol. 2, Núm. 2 (2024), pp. 73-89  
+**ISSN:** 3020-3821  
+
+- 🔗 **Versión oficial (revista):** [Revista ROSM – UMH](https://revistas.innovacionumh.es/index.php/rosm/article/view/2892)  
+- 🔗 **Versión Open Access (Zenodo):** [DOI: 10.5281/zenodo.16949202](https://doi.org/10.5281/zenodo.16949202)  
+
+---
+
+### The Transformation of Nautical Tourism in Spain: From the Traditional “Golondrinas” Tour Boats to Coastal Cruises
+
+**Author:** David de Haro Malo de Molina  
+**Journal:** Revista de Ordenación del Sector Marítimo (ROSM), Vol. 2, No. 2 (2024), pp. 73-89  
+**ISSN:** 3020-3821  
+
+- 🔗 **Official version (journal):** [ROSM Journal – UMH](https://revistas.innovacionumh.es/index.php/rosm/article/view/2892)  
+- 🔗 **Open Access version (Zenodo):** [DOI: 10.5281/zenodo.16949202](https://doi.org/10.5281/zenodo.16949202)  
+
 ---
 
 ## 🌌 Certificaciones de calidad y sostenibilidad
