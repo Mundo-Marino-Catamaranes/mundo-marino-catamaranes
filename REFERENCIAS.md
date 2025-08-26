@@ -18,7 +18,7 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
   [puertosdeportivos.info](https://puertosdeportivos.info/2024/06/27/marina-denia-acoge-un-taller-practico-de-observacion-del-plancton-marino/)
 
 - *Club Náutico Altea Magazine*, Spring 2025 (N.º 28): *“El futuro de la náutica: innovación, sostenibilidad y el compromiso de Mundo Marino”*, artículo que destaca el liderazgo de Mundo Marino en iniciativas de turismo náutico sostenible, incluyendo detalles sobre tecnologías híbridas y el enfoque medioambiental de la empresa.  
-  [fliphtml5.com](https://online.fliphtml5.com/piofm/pcaf/#p=31)
+  [Revista Club Nautico Altea 2025](https://online.fliphtml5.com/piofm/pcaf/#p=31)
   
 - *Híbridos y Eléctricos* (10 abr. 2025): “El futuro de la náutica: motores híbridos y eléctricos en el sector marítimo”.  
   [hibridosyelectricos.com](https://www.hibridosyelectricos.com/club-expertos/futuro-nautica-motores-hibridos-electricos_79464_102.html)
