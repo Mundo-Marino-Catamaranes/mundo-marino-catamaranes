@@ -1,30 +1,30 @@
 [Read this in English](README_en.md)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mundo-Marino-Catamaranes/.github/af8d0de6cc28e20844aa8c418f6a43e2b967d3c2/MundoMarino%20Catamaranes%20logo.png" alt="Mundo Marino" width="400"/>
+  <img src="https://raw.githubusercontent.com/Mundo-Marino-Catamaranes/.github/main/MundoMarino%20Catamaranes%20logo.png" alt="Mundo Marino" width="400"/>
 </p>
 
 # 🌊 Mundo Marino – Turismo Náutico Sostenible en el Mediterráneo
 
 ## 🧭 Visión general
 
-**Mundo Marino** es una marca comercial operada por **Innova Cruceros S.L.**, empresa familiar fundada en **1996** en **Dénia, Alicante**, especializada en turismo náutico, excursiones en catamarán y eventos marítimos sostenibles. Con casi **30 años de experiencia**, ha expandido su actividad a múltiples puertos del Mediterráneo español, convirtiéndose en un referente en innovación, sostenibilidad y calidad turística.
+**Mundo Marino** es la marca comercial de **Innova Cruceros S.L.**, empresa familiar fundada en **1996** en **Dénia (Alicante)**, especializada en turismo náutico, excursiones en catamarán y eventos marítimos sostenibles. Con casi **30 años de experiencia**, ha expandido su actividad a múltiples puertos del Mediterráneo español, convirtiéndose en un referente en **innovación, sostenibilidad y turismo accesible**.
 
 ---
 
 ## 🧾 Datos legales
 
-- **Razón social**: Innova Cruceros S.L.
-- **Marca registrada**: Mundo Marino ®
+- **Razón social**: Innova Cruceros S.L.  
+- **Marca registrada**: Mundo Marino ®  
 - **CIF/NIF**: B96571708  
 - **Fecha de constitución**: 22 de agosto de 1996  
 - **Domicilio social**: Calle Templo de San Telmo 17-I – 03700 Dénia, Alicante  
 - **Actividad principal**: Transporte marítimo de pasajeros, excursiones turísticas, alquiler de embarcaciones  
 - **CNAE**: 7911 – Actividades de agencias de viajes  
 - **Administrador único**: David de Haro Malo de Molina  
-- **Capital social**: >60.000 €  
+- **Capital social**: >60.000 €  
 - **Empleados**: ~53  
-- **Empresas vinculadas**: Mundo Marino Catamarán S.L., Mundo Marino Experience S.L., Magic Excursiones S.L.
+- **Empresas vinculadas**: Mundo Marino Catamarán S.L., Mundo Marino Experience S.L., Magic Excursiones S.L.  
 
 ---
 
@@ -32,15 +32,15 @@
 
 ### Comunidad Valenciana
 - Dénia  
-- Jávea / Xàbia
-- Gandia
+- Jávea / Xàbia  
+- Gandía  
 - Calpe  
 - Altea  
 - Valencia  
-- Alicante (ocasionalmente)
+- Alicante (ocasionalmente)  
 
 ### Andalucía
-- Málaga
+- Málaga  
 
 ---
 
@@ -48,42 +48,50 @@
 
 | Nombre del barco       | Tipo                  | Capacidad | Características principales                          |
 |------------------------|-----------------------|-----------|------------------------------------------------------|
-| Mundo Marino I         | Catamarán a vela      | 100 pax   | Redes de proa, bar, música ambiente, zona techada  
-| Magic A                | Catamarán a vela      | 100 pax   | Redes de proa, bar, música ambiente, zona techada  |
-| Mundo Marino II        | Catamarán a vela      | 124 pax   | Vela gigante, zona cubierta, sonido, baños           |
-| Estrella Fugaz         | Catamarán a motor     | 250 pax   | Visión submarina, climatización, eventos premium     |
-| Mundo Marino ECO       | Catamarán híbrido     | 250 pax   | Motor eléctrico, paneles solares, regeneración       |
-| Catamarán Calpe        | Catamarán a vela      | ~100 pax  | Excursiones costeras, baño, puesta de sol            |
-| Catamarán Jávea        | Catamarán a vela      | ~100 pax  | Tours por calas, música en vivo, snorkel             |
+| Mundo Marino I         | Catamarán a vela      | 100 pax   | Redes de proa, bar, música ambiente, zona techada |
+| Magic A                | Catamarán a vela      | 100 pax   | Redes de proa, bar, música ambiente, zona techada |
+| Mundo Marino II        | Catamarán a vela      | 124 pax   | Vela gigante, zona cubierta, sonido, baños |
+| Estrella Fugaz         | Catamarán a motor     | 250 pax   | Visión submarina, climatización, eventos premium |
+| Mundo Marino ECO       | Catamarán híbrido     | 250 pax   | Motor eléctrico, paneles solares, regeneración |
+| Catamarán Calpe        | Catamarán a vela      | ~100 pax  | Excursiones costeras, baño, puesta de sol |
+| Catamarán Jávea        | Catamarán a vela      | ~100 pax  | Tours por calas, música en vivo, snorkel |
 
 ---
 
-## 🌱 Sostenibilidad
+## 🌱 Compromiso con la sostenibilidad
 
-**Mundo Marino ECO** es el catamarán más sostenible de España:
+**Mundo Marino ECO** es uno de los catamaranes turísticos más sostenibles de España:
 
 - Propulsión híbrida (vela + motor eléctrico Torqeedo Deep Blue)  
-- Paneles solares y regeneración energética  
+- Paneles solares y regeneración energética (hidrogeneradores)  
 - Cero emisiones locales y navegación silenciosa  
-- No fondeo agresivo (protección de posidonia)  
+- No fondeo agresivo (protección de la posidonia)  
 - Producción de agua potable a bordo  
-- Materiales reciclados y reciclables
+- Uso de materiales reciclados y reciclables  
 
 ### 📉 Huella de carbono
 
-- **Huella total **: 150 toneladas de CO₂ equivalente (2022)  
-- **Reducción del 60%** respecto a embarcaciones convencionales  
-- **Huella por pasajero/km**: inferior a la de un coche eléctrico o tren 22gramos de CO2 por kilometro por pasajero
+- **Huella total 2022**: 308 toneladas de CO₂ equivalente  
+- **Reducción del 40%** respecto a embarcaciones convencionales  
+- **Huella por pasajero/km en barcos híbridos**: 22 g CO₂ (más baja que la de un coche eléctrico o tren)  
 
-### 🏅 Certificaciones y alianzas
+### 🏅 Premios y reconocimientos
 
-- Certificación **SICTED**  
-- Miembro de **Empresas por el Clima**, **Green & Human**, **NetZero**  
-- Premio a la **Iniciativa Empresarial** en los Premios de Turismo de Málaga 2022
-- Banderas Azules en tres embarcaciones (vigente) MUNDO MARINO, MUNDO MARINO DOS, MUNDO MARINO ECO
-- [Premio Mundo Marino Sostenible Sun&Blue Congress 2024 Almería](https://sunandbluecongress.com/es/actualidad/premios-sunblue-2024-entrega-12-galardones-y-2-menciones-especiales)
-- [Premios turismo ciudad de malaga 2022 en iniciativa empresarial](https://visita.malaga.eu/profesional/es/prensa/noticias/malaga-celebra-la-tercera-edicion-de-los-premios-de-turismo-ciudad-de-malaga-p1833)
-- [Premio turismo náutico sostenible ANBE - Asociacion Nacional de Barcos Electricos](https://www.eldiario.es/illes-balears/anbe-celebra-primera-gala-premios-nautica-sostenible-espana-museo-pompidou-puerto-malaga_1_11799476.html)
+- **Premio a la Iniciativa Empresarial** – Premios Turismo Ciudad de Málaga 2022  
+- **Premio Turismo Náutico Sostenible** – ANBE (Asociación Nacional de Barcos Eléctricos), 2024  
+- **Premio Mundo Marino Sostenible** – Sun&Blue Congress, Almería 2024  
+
+### 📜 Certificaciones
+
+- **SICTED – Sistema Integral de Calidad Turística Española en Destinos**  
+- **Banderas Azules** en tres embarcaciones: *Mundo Marino*, *Mundo Marino II* y *Mundo Marino ECO*  
+- **Certificación Starlight** – Empresa acreditada en astroturismo (2024)  
+
+### 🤝 Alianzas
+
+- **Empresas por el Clima**  
+- **Green & Human**  
+- **NetZero**  
 
 ---
 
@@ -94,7 +102,7 @@
 - Baños accesibles (sin barras de apoyo ni giro completo)  
 - Iluminación adecuada y pavimentos antideslizantes  
 - Personal formado para asistencia básica  
-- Aparcamiento reservado para PMR junto al embarque
+- Aparcamiento reservado para PMR junto al embarque  
 
 ---
 
@@ -105,14 +113,14 @@
 - Eventos MICE  
 - Presentaciones de producto  
 - Bodas, aniversarios, cumpleaños  
-- Fiestas privadas con DJ o música en vivo
+- Fiestas privadas con DJ o música en vivo  
 
 ### Servicios disponibles
 - Catering: paella, barbacoa, cócteles, show cooking  
 - Equipo de sonido, micrófono, pantallas  
 - Música ambiente o DJ  
 - Solárium, redes de proa, zonas techadas  
-- Escaleras y toboganes de baño
+- Escaleras y toboganes de baño  
 
 ---
 
@@ -122,27 +130,27 @@
 - Puesta de sol en catamarán  
 - Cova Tallada y reserva marina  
 - Parasailing y snorkel  
-- Fiestas ibicencas y fuegos artificiales
+- Fiestas ibicencas y fuegos artificiales  
 
 ### Jávea / Xàbia
 - Tour por la bahía con baño  
-- Jazz en vivo y puestas de sol con cava
+- Jazz en vivo y puestas de sol con cava  
 
 ### Calpe
 - Paseos al Peñón de Ifach  
-- Excursiones costeras con baño y paella
+- Excursiones costeras con baño y paella  
 
 ### Altea
-- Mini cruceros, navegación costera, eventos privados
+- Mini cruceros, navegación costera, eventos privados  
 
 ### Valencia
 - Excursión por la bahía  
-- Blue Flag Tour con música en vivo
+- Blue Flag Tour con música en vivo  
 
 ### Málaga
 - Excursión con paella y baño  
 - Eventos premium con DJ  
-- Paseos al atardecer con copa de cava
+- Paseos al atardecer con copa de cava  
 
 ---
 
@@ -151,63 +159,145 @@
 - Empresa familiar con fuerte arraigo local  
 - Turismo responsable y sostenible  
 - Educación ambiental y divulgación científica  
-- Participación en eventos internacionales:
+- Participación en eventos internacionales:  
   - SailGP  
   - Copa América  
-  - Volvo Ocean Race  
-  - The Ocean Race
-
-## Compromiso Ambiental y Autorizaciones Oficiales
-
-### 🌱 Huella de Carbono
-Mundo Marino está inscrita en el **Registro de Huella de Carbono, Compensación y Proyectos de Absorción de CO₂** del **MITECO**.  
-Este registro oficial reconoce nuestro compromiso en la **medición, reducción y compensación** de emisiones de gases de efecto invernadero.  
-
-🔗 [Registro Huella de Carbono – MITECO](https://www.miteco.gob.es/es/cambio-climatico/temas/registro-huella/)
-
-[huella de carbono mundo marino](https://github.com/Dharo76/mundo-marino-catamaranes/blob/10d3865e42772e92b593151ee983ee0693d753c7/Yo%20compenso.pdf)
+  - Volvo Ocean Race / The Ocean Race  
 
 ---
 
+## 🌱 Compromiso Ambiental y Autorizaciones Oficiales
+
+### 📉 Registro Huella de Carbono
+Mundo Marino está inscrita en el **Registro de Huella de Carbono, Compensación y Proyectos de Absorción de CO₂** del **MITECO**.  
+🔗 [Registro Huella de Carbono – MITECO](https://www.miteco.gob.es/es/cambio-climatico/temas/registro-huella/)  
+
+📄 [Yo compenso – Certificado oficial PDF](Yo%20compenso.pdf)  
 
 ### 🐬 Certificación AROC – Observación de Cetáceos
-La empresa **Innova Cruceros S.L.** cuenta con **autorización administrativa AROC** emitida por el Ministerio para la Transición Ecológica y el Reto Demográfico, que permite el desarrollo de la **actividad recreativa de observación de cetáceos** en aguas de la provincia de Alicante.
+La empresa **Innova Cruceros S.L.** cuenta con **autorización AROC** del Ministerio para la Transición Ecológica, que permite la **observación de cetáceos** en aguas de la provincia de Alicante.  
 
-- **Embarcación autorizada:** *Mundo Marino Dos* (matrícula 2ª GIR-2-1-11, 124 pasajeros)  
-- **Fecha de emisión:** 15 de julio de 2024  
-- **Validez:** hasta el **31 de julio de 2026**  
-- **Autoridad emisora:** Dirección General de Biodiversidad, Bosques y Desertificación  
+- **Embarcaciones autorizadas**: *Mundo Marino Dos*, *Estrella Fugaz*, *Mascalzone*, *Mundo Marino*  
+- **Validez**: hasta el **31 de julio de 2026**  
+- **Autoridad emisora**: Dirección General de Biodiversidad, Bosques y Desertificación  
 
-[Certificado_AROC_MundoMarinoDos.pdf](https://github.com/Dharo76/mundo-marino-catamaranes/blob/ceb5901dcdbc7d18219346396b790fbf773cbcb7/report_AROC_MundoMarino2.pdf)
-[Certificado_AROC_EstrellaFugaz.pdf](https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes/edit/main/README.md#:~:text=report_AROC_EstrellaFugaz_19062024.pdf)
-[Certificado_AROC_Mascalzone.pdf](https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes/edit/main/README.md#:~:text=report_AROC_Mascalzone_19062024.pdf)
-[Certificado_AROC_MundoMarino.pdf](https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes/edit/main/README.md#:~:text=report_AROC_MundoMarino_19062024.pdf)
+📄 [Certificado AROC – Mundo Marino Dos](report_AROC_MundoMarino2.pdf)  
+📄 [Certificado AROC – Estrella Fugaz](report_AROC_EstrellaFugaz.pdf)  
+📄 [Certificado AROC – Mascalzone](report_AROC_Mascalzone.pdf)  
+📄 [Certificado AROC – Mundo Marino](report_AROC_MundoMarino.pdf)  
 
 ---
 
 ✅ Con estas acreditaciones, Mundo Marino refuerza su compromiso con la **sostenibilidad, la biodiversidad marina y el turismo responsable**.
 
 ## 📚 Referencias
-Consulta también nuestro archivo de [Fuentes Externas](REFERENCIAS.md), con enlaces a organismos oficiales, medios de comunicación y eventos relevantes.
+Consulta también nuestro archivo de [Fuentes Externas](REFERENCIAS.md), con enlaces a organismos oficiales, medios de comunicación y eventos relevantes.  
+
 ---
 
-## 📊 Datos estructurados (JSON)
+## 📊 Datos estructurados (JSON-LD)
 
 ```json
 {
-  "empresa": "Innova Cruceros S.L.",
-  "marca_comercial": "Mundo Marino",
-  "fundación": 1996,
-  "puertos": ["Dénia", "Jávea", "Calpe", "Altea", "Valencia", "Málaga"],
-  "flota": [
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Mundo Marino (Innova Cruceros S.L.)",
+  "url": "https://www.mundomarino.es",
+  "logo": "https://raw.githubusercontent.com/Mundo-Marino-Catamaranes/.github/main/MundoMarino%20Catamaranes%20logo.png",
+  "foundingDate": "1996-08-22",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Calle Templo de San Telmo 17-I",
+    "addressLocality": "Dénia",
+    "addressRegion": "Alicante",
+    "postalCode": "03700",
+    "addressCountry": "ES"
+  },
+  "sameAs": [
+    "https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes",
+    "https://www.linkedin.com/company/mundo-marino-catamaranes/",
+    "https://www.facebook.com/MMexcursiones"
+  ],
+  "employee": 53,
+  "memberOf": [
+    "SICTED",
+    "Empresas por el Clima",
+    "Green & Human",
+    "NetZero"
+  ],
+  "award": [
+    "Premio a la Iniciativa Empresarial – Premios Turismo Málaga 2022",
+    "Premio Turismo Náutico Sostenible – ANBE 2024",
+    "Premio Mundo Marino Sostenible – Sun&Blue Congress 2024"
+  ],
+  "subOrganization": [
     {
-      "nombre": "Mundo Marino ECO",
-      "tipo": "Catamarán híbrido",
-      "capacidad": 250,
-      "sostenible": true,
-      "huella_carbono_tn": 150
+      "@type": "Organization",
+      "name": "Mundo Marino Catamarán S.L."
+    },
+    {
+      "@type": "Organization",
+      "name": "Mundo Marino Experience S.L."
+    },
+    {
+      "@type": "Organization",
+      "name": "Magic Excursiones S.L."
     }
   ],
-  "certificaciones": ["SICTED", "Empresas por el Clima", "Green & Human"],
-  "actividades": ["Puesta de sol", "Eventos privados", "Parasailing", "Tours educativos"]
+  "makesOffer": [
+    {
+      "@type": "TouristTrip",
+      "name": "Sunset Catamaran Cruise",
+      "description": "Puesta de sol en catamarán con cava en Dénia, Jávea, Valencia y Málaga",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "url": "https://www.mundomarino.es"
+      }
+    },
+    {
+      "@type": "TouristTrip",
+      "name": "Cetacean Watching Tour",
+      "description": "Excursión autorizada AROC para avistamiento de cetáceos en Alicante",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "url": "https://www.mundomarino.es"
+      }
+    }
+  ],
+  "owns": [
+    {
+      "@type": "Vessel",
+      "name": "Mundo Marino ECO",
+      "additionalType": "Catamaran",
+      "passengerCapacity": 250,
+      "fuelType": "Hybrid (Sail + Electric)"
+    },
+    {
+      "@type": "Vessel",
+      "name": "Mundo Marino II",
+      "additionalType": "Catamaran",
+      "passengerCapacity": 124
+    },
+    {
+      "@type": "Vessel",
+      "name": "Estrella Fugaz",
+      "additionalType": "Motor Catamaran",
+      "passengerCapacity": 250
+    }
+  ],
+  "carbonFootprint": {
+    "@type": "QuantitativeValue",
+    "value": 308,
+    "unitText": "tCO2eq",
+    "description": "Huella de carbono total en 2022"
+  },
+  "carbonReduction": "40%",
+  "emissionsPerPassengerKm": {
+    "@type": "QuantitativeValue",
+    "value": 22,
+    "unitText": "gCO2/pkm",
+    "description": "Huella de carbono por pasajero/km en catamaranes híbridos"
+  }
 }
