@@ -1,12 +1,4 @@
----
-title: "📚 Fuentes y Referencias Externas"
-permalink: /REFERENCIAS.html
-layout: default
-description: "Fuentes externas y documentación oficial que avalan el compromiso de Mundo Marino con la sostenibilidad, la biodiversidad marina y el turismo náutico."
-lang: es
----
-
-# 📚 Fuentes y Referencias Externas
+## 📚 Fuentes y Referencias Externas
 
 Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruceros S.L.)**, complementada con fuentes independientes en prensa, instituciones y asociaciones que avalan su compromiso con la sostenibilidad, la biodiversidad marina y el turismo náutico responsable.
 
@@ -82,11 +74,9 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
   [facebook.com – Turismo Científico](https://www.facebook.com/MMexcursiones/posts/-mundo-marino-ya-forma-parte-del-registro-nacional-de-turismo-cient%C3%ADficonos-enor/1205911964876726/)
 
 - *UNED Dénia*: vinculación a actividades de extensión universitaria relacionadas con el mar.  
-  [UNED](https://extension.uned.es/actividad/idactividad/38419?idioma=ca)
+  [UNED](https://extension.uned.es/actividad/idactividad/38419&idioma=ca)
 
----
-
-## 📚 Publicaciones Académicas / Academic Publications
+  ## 📚 Publicaciones Académicas / Academic Publications
 
 ### La transformación del turismo náutico en España: de las golondrinas tradicionales a los cruceros costeros
 
@@ -133,9 +123,8 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 - [Página web oficial](https://www.mundomarino.es)  
 - [GitHub Pages – Documentación pública](https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/)
 
----
-
 {% raw %}
+<!-- JSON-LD con eventos corregidos para resultados enriquecidos -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -150,9 +139,10 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
         "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/"
       ]
     },
+
     {
       "@type": "ItemList",
-      "@id": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/REFERENCIAS.html#media",
+      "@id": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/REFERENCIAS#media",
       "name": "Cobertura en medios de comunicación",
       "itemListElement": [
         {
@@ -220,31 +210,126 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
         }
       ]
     },
+
     {
       "@type": "ItemList",
-      "@id": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/REFERENCIAS.html#initiatives",
+      "@id": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/#initiatives",
       "name": "Iniciativas institucionales y sectoriales",
       "itemListElement": [
+        { "@type": "Organization", "position": 1, "name": "Clúster Marítimo-Marino de Andalucía (CMMA)", "url": "https://www.cmma.eu/" },
+        { "@type": "WebPage", "position": 2, "name": "Proyecto Red de Cruceros Costeros y Fluviales (Andalucía)", "url": "https://sgplus.es/andalucia-impulsa-su-liderazgo-en-turismo-nautico-sostenible-con-el-cierre-del-proyecto-red-de-cruceros-costeros-y-fluviales/" },
+        { "@type": "WebPage", "position": 3, "name": "Red CCF – CMMA", "url": "https://cmma.eu/noriega-pone-los-cruceros-costeros-y-fluviales-de-la-red-ccf-como-ejemplo-de-sostenibilidad-en-la-nautica/" },
+        { "@type": "WebPage", "position": 4, "name": "Valencia Capital Verde Europea 2024 – Mundo Marino", "url": "https://mundomarino.es/blog/mundo-marino-con-valencia-sostenible-capital-verde-europea-2024/" },
+        { "@type": "Organization", "position": 5, "name": "Alicante Cruise Tourism – Asociados", "url": "https://alicantecruisetourism.com/nuestros-asociados/mundo-marino/" },
+        { "@type": "WebPage", "position": 6, "name": "Puerto de Málaga – Convention Bureau: Mundo Marino", "url": "https://visita.malaga.eu/convention-bureau/en/auxiliar-services/catamaran-mundo-marino-malaga-p103689" },
+        { "@type": "WebPage", "position": 7, "name": "Turismo Málaga – Visita Costa del Sol: Mundo Marino", "url": "https://www.visitcostadelsol.com/malaga-costa-del-sol/senda-azul/marinas-and-clubs/mundo-marino-p107958" }
+      ]
+    },
+
+    {
+      "@type": "ItemList",
+      "@id": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/#biodiversity",
+      "name": "Biodiversidad y áreas marinas protegidas",
+      "itemListElement": [
+        { "@type": "WebPage", "position": 1, "name": "Denia Whale Heritage Area – Overview", "url": "https://www.wildlifeheritageareas.org/explore-areas/denia-whale-heritage-area-heritage-area/" },
+        { "@type": "WebPage", "position": 2, "name": "Denia Whale Heritage Area – Experiences", "url": "https://www.wildlifeheritageareas.org/explore-areas/denia-whale-heritage-area-heritage-area/experiences/" },
+        { "@type": "WebPage", "position": 3, "name": "World Cetacean Alliance – Cabo de San Antonio (candidate)", "url": "https://worldcetaceanalliance.org/san-antonio-candidate/" },
+        { "@type": "WebPage", "position": 4, "name": "CN Jávea – Replantación de posidonia con Fundación Ecomar", "url": "https://cnjavea.net/nos-unimos-a-ecomar-en-una-jornada-centrada-en-la-replantacion-de-posidonia-en-el-mediterraneo/" },
+        { "@type": "WebPage", "position": 5, "name": "CN Altea – Actividades náuticas sostenibles", "url": "https://www.cnaltea.com/noticias/noticia_ampliada.php?ln=sp&ms=10&id=1538" }
+      ]
+    },
+
+    {
+      "@type": "ItemList",
+      "@id": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/#academic",
+      "name": "Publicaciones académicas",
+      "itemListElement": [
         {
-          "@type": "Organization",
+          "@type": "ScholarlyArticle",
           "position": 1,
-          "name": "Clúster Marítimo-Marino de Andalucía (CMMA)",
-          "url": "https://www.cmma.eu/"
+          "name": "La transformación del turismo náutico en España: de las golondrinas tradicionales a los cruceros costeros",
+          "author": { "@type": "Person", "name": "David de Haro Malo de Molina" },
+          "isPartOf": { "@type": "PublicationIssue", "name": "Revista de Ordenación del Sector Marítimo (ROSM), Vol. 2, Núm. 2 (2024), pp. 73-89", "issn": "3020-3821" },
+          "url": "https://revistas.innovacionumh.es/index.php/rosm/article/view/2892",
+          "sameAs": "https://doi.org/10.5281/zenodo.16949202",
+          "inLanguage": "es"
         },
         {
-          "@type": "WebPage",
+          "@type": "ScholarlyArticle",
           "position": 2,
-          "name": "Proyecto Red de Cruceros Costeros y Fluviales (Andalucía)",
-          "url": "https://sgplus.es/andalucia-impulsa-su-liderazgo-en-turismo-nautico-sostenible-con-el-cierre-del-proyecto-red-de-cruceros-costeros-y-fluviales/"
+          "name": "The Transformation of Nautical Tourism in Spain: From the Traditional “Golondrinas” Tour Boats to Coastal Cruises",
+          "author": { "@type": "Person", "name": "David de Haro Malo de Molina" },
+          "isPartOf": { "@type": "PublicationIssue", "name": "Revista de Ordenación del Sector Marítimo (ROSM), Vol. 2, No. 2 (2024), pp. 73-89", "issn": "3020-3821" },
+          "url": "https://revistas.innovacionumh.es/index.php/rosm/article/view/2892",
+          "sameAs": "https://doi.org/10.5281/zenodo.16949202",
+          "inLanguage": "en"
+        }
+      ]
+    },
+
+    {
+      "@type": "ItemList",
+      "@id": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/#certs",
+      "name": "Certificaciones de calidad y sostenibilidad",
+      "itemListElement": [
+        { "@type": "CreativeWork", "position": 1, "name": "Bandera Azul (2024) – Buenas prácticas", "url": "https://www.mundomarino.es" },
+        { "@type": "CreativeWork", "position": 2, "name": "Fundación Starlight (jun. 2024) – Astroturismo y protección del cielo nocturno", "url": "https://fundacionstarlight.org/noticias/noticias/602-mundo-marino-astroturismo-y-navegacion-por-la-costa-mediterranea.html" },
+        { "@type": "CreativeWork", "position": 3, "name": "Turismo de Estrellas (2025) – Empresas certificadas STArLIGHT", "url": "https://turismodeestrellas.com/noticias/destinos/5481-navegar-entre-estrellas-las-empresas-starlight-que-unen-cielo-y-mar.html" }
+      ]
+    },
+
+    {
+      "@type": "ItemList",
+      "@id": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/#culture",
+      "name": "Cultura y eventos",
+      "itemListElement": [
+        {
+          "@type": "Event",
+          "position": 1,
+          "name": "Cabalgata de Reyes – Dénia",
+          "startDate": "2025-01-05T18:00:00",
+          "endDate": "2025-01-05T21:00:00",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "location": {
+            "@type": "Place",
+            "name": "Dénia",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Dénia",
+              "addressRegion": "Alicante",
+              "addressCountry": "ES"
+            }
+          },
+          "description": "Cabalgata tradicional de los Reyes Magos en Dénia con colaboración de Mundo Marino.",
+          "organizer": { "@type": "Organization", "name": "Ayuntamiento de Dénia" },
+          "url": "https://deniadigital.es/art/20376/los-reyes-magos-llenan-de-magia-y-alegria-las-calles-de-denia"
         },
         {
-          "@type": "WebPage",
-          "position": 3,
-          "name": "Red CCF – CMMA",
-          "url": "https://cmma.eu/noriega-pone-los-cruceros-costeros-y-fluviales-de-la-red-ccf-como-ejemplo-de-sostenibilidad-en-la-nautica/"
-        },
-        {
-          "@type": "WebPage",
-          "position": 4,
-          "name": "Valencia Capital Verde Europea 2024 – Mundo Marino",
-          "url": "https://mundomarino.es/blog/mundo-marino-con-valencia-sostenible-capital-verde-europea-2024/"
+          "@type": "Event",
+          "position": 2,
+          "name": "Cabalgata de Reyes – Valencia",
+          "startDate": "2025-01-05T18:00:00",
+          "endDate": "2025-01-05T21:00:00",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "location": {
+            "@type": "Place",
+            "name": "Valencia",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Valencia",
+              "addressRegion": "Valencia",
+              "addressCountry": "ES"
+            }
+          },
+          "description": "Desfile anual de los Reyes Magos en Valencia con actividades culturales y participación de Mundo Marino.",
+          "organizer": { "@type": "Organization", "name": "Ayuntamiento de Valencia" },
+          "url": "https://www.valencia.es/cas/actualidad/-/content/cabalgata-reyes-magos-1"
+        }
+      ]
+    }
+  ]
+}
+</script>
+{% endraw %}
