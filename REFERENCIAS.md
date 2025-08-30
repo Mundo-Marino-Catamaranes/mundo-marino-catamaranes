@@ -123,7 +123,7 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 - [Repositorio oficial – Mundo Marino GitHub](https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes)  
 - [Página web oficial](https://www.mundomarino.es)  
 - [GitHub Pages – Documentación pública](https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/)
-
+{% raw %}
 - <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -384,3 +384,4 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
   ]
 }
 </script>
+{% endraw %}
