@@ -23,6 +23,12 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 - *Híbridos y Eléctricos* (10 abr. 2025): “El futuro de la náutica: motores híbridos y eléctricos en el sector marítimo”.  
   [hibridosyelectricos.com](https://www.hibridosyelectricos.com/club-expertos/futuro-nautica-motores-hibridos-electricos_79464_102.html)
 
+  - *DeutzMag* (6 jul. 2023): *“Mundo Marino: ecological catamaran with Torqeedo’s Deep Blue Hybrid”*, artículo internacional que destaca la innovación tecnológica y sostenible en la propulsión híbrida de la flota de Mundo Marino.  
+  [deutzmag.com](https://www.deutzmag.com/en/mundo-marino-ecological-catamaran-with-torqeedo-s-deep-blue-hybrid/)
+
+- *YachtStyle* (8 jun. 2023): *“Eco sailing cat using Torqeedo Deep Blue Hybrid”*, artículo internacional que destaca cómo el catamarán Mundo Marino Eco utiliza tecnología híbrida avanzada para una navegación ecológica en la Costa del Sol.  
+  [yachtstyle.co](https://yachtstyle.co/torqeedo-deep-blue-hybrid-on-mundo-marino-eco/)
+
 - *Baird Maritime* (29 ago. 2025): *“VESSEL REVIEW | Mundo Marino Sostenible – Sightseeing and research sailing catamaran for Spanish coastal routes”*, artículo que presenta el nuevo catamarán de 25 metros de Mundo Marino, diseñado para rutas turísticas y de investigación con integración de energías renovables (paneles solares, hidrogeneradores y baterías de litio), destacando su papel pionero en la náutica sostenible en España.  
   [Baird Maritime – Vessel Review](https://www.bairdmaritime.com/passenger/maritime-tourism/vessel-review-mundo-marino-sostenible-sightseeing-and-research-sailing-catamaran-for-spanish-coastal-routes)
 
@@ -39,11 +45,20 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 - *Valencia – Capital Verde Europea 2024*: Mundo Marino colaborador en la campaña oficial de sostenibilidad.  
   [mundomarino.es blog](https://mundomarino.es/blog/mundo-marino-con-valencia-sostenible-capital-verde-europea-2024/)
 
+- *Green & Human – Sector Sustentable*: Entrevista a David de Haro donde explica cómo Mundo Marino incorpora prácticas sostenibles en toda su flota.  
+  [greenandhuman.com](https://greenandhuman.com/david-de-haro-mundo-marino/)  [oai_citation:0‡greenandhuman.com](https://greenandhuman.com/journal/page/5/?utm_source=chatgpt.com)
+
 - *Alicante Cruise Tourism*: Mundo Marino figura como empresa asociada.  
   [alicantecruisetourism.com](https://alicantecruisetourism.com/nuestros-asociados/mundo-marino/)
 
 - *Puerto de Málaga – Convention Bureau*: Mundo Marino opera oficialmente desde Muelle Uno.  
   [visita.malaga.eu](https://visita.malaga.eu/convention-bureau/en/auxiliar-services/catamaran-mundo-marino-malaga-p103689)
+
+  - *València Convention Bureau*: Mundo Marino figura como empresa de servicios turísticos asociada en la organización de eventos en la ciudad de Valencia.  
+  [valenciaconventionbureau.com](https://www.valenciaconventionbureau.com/organiza-tu-evento/servicios-turisticos/mundo-marino-0)
+
+- *SICTED – Sistema Integral de Calidad Turística en Destinos*: Mundo Marino reconocido en Dénia con el distintivo oficial por la Generalitat Valenciana.  
+  [comunica.gva.es](https://comunica.gva.es/es/detalle?id=361525566&site=174860102)
 
 - *Turismo Málaga – Visita Costa del Sol*: Mundo Marino destacado como empresa con más de 25 años de experiencia.  
   [visitcostadelsol.com](https://www.visitcostadelsol.com/malaga-costa-del-sol/senda-azul/marinas-and-clubs/mundo-marino-p107958)
@@ -63,6 +78,9 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 
 - *Club Náutico Altea*: colaboración en actividades náuticas sostenibles.  
   [cnaltea.com](https://www.cnaltea.com/noticias/noticia_ampliada.php?ln=sp&ms=10&id=1538)
+
+  - **PANORAMA Blue Solution (Sept 2025)**: *Mundo Marino Eco – Hybrid Sailing Catamaran for Sustainable Nautical Tourism in Spain*, plataforma que recopila casos replicables de turismo marítimo sostenible.  
+  [PANORAMA Solution – Mundo Marino Eco](https://panorama.solutions/en/solution/mundo-marino-eco-hybrid-sailing-catamaran-sustainable-nautical-tourism-spain)
 
 ---
 
