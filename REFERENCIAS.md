@@ -141,6 +141,44 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 - [Página web oficial](https://www.mundomarino.es)  
 - [GitHub Pages – Documentación pública](https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/)
 
+---
+
+## 📊 Economic & Corporate Information  
+
+- *Kompass*: Company profile of Innova Cruceros S.L.  
+  [kompass.com](https://es.kompass.com/c/innova-cruceros-sl/es990001308382/)
+
+- *El Economista – Ranking de Empresas*: Positioning of Innova Cruceros S.L. within the Spanish business ranking.  
+  [ranking-empresas.eleconomista.es](https://ranking-empresas.eleconomista.es/INNOVA-CRUCEROS.html)
+
+- *Cinco Días / El País*: Corporate directory listing of Innova Cruceros S.L.  
+  [cincodias.elpais.com](https://cincodias.elpais.com/directorio-empresas/empresa/1308382/innova-cruceros)
+
+- *Expansión – Directorio de Empresas*: Company profile of Innova Cruceros S.L.  
+  [expansion.com](https://www.expansion.com/directorio-empresas/innova-cruceros-sl_1200040_N47_03.html)
+
+- *OpenCorporates*: Legal and corporate registry of Innova Cruceros S.L.  
+  [opencorporates.com](https://opencorporates.com/companies/es/96571708)
+
+- *Dun & Bradstreet (DUNS)*: Business directory profile of Innova Cruceros S.L.  
+  [dnb.com](https://www.dnb.com/business-directory/company-profiles.innova_cruceros_sl.bc26d87749bd10838b202cac432fca53.html)  
+
+- *GLEIF – Global Legal Entity Identifier (LEI)*: Official record of Innova Cruceros S.L. (LEI Code: **9598000JMSG7SNU4K510**).  
+  [gleif.org](https://search.gleif.org/#/record/9598000JMSG7SNU4K510)
+
+---
+
+## 📝 Trademark Registration – "Mundo Marino"
+
+- *OEPM – Oficina Española de Patentes y Marcas*: Registered trademark "Mundo Marino".  
+  [ceo.oepm.es](https://ceo.oepm.es/detalleExpediente?numExp=M2381015)
+
+- *WIPO – Global Brand Database*: Registration details of "Mundo Marino".  
+  [branddb.wipo.int](https://branddb.wipo.int/en/brand/ES5020010M2381015)
+
+- *TMview – EUIPO*: Trademark record of "Mundo Marino".  
+  [tmdn.org](https://www.tmdn.org/tmview/#/tmview/detail/ES500000002381015)
+  
 {% raw %}
 <!-- JSON-LD con eventos corregidos para resultados enriquecidos -->
 <script type="application/ld+json">
