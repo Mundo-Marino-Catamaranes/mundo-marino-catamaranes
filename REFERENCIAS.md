@@ -178,6 +178,16 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 
 - *TMview – EUIPO*: Trademark record of "Mundo Marino".  
   [tmdn.org](https://www.tmdn.org/tmview/#/tmview/detail/ES500000002381015)
+
+  ---
+
+## 🌐 Institutional & Open Data References  
+
+- *Wikidata*: Structured data entry for Mundo Marino / Innova Cruceros S.L.  
+  [Wikidata – Q136084941](https://www.wikidata.org/wiki/Q136084941)
+
+- *Wikimedia Commons*: Media repository with images and logos related to Mundo Marino.  
+  [Commons Category – Mundo Marino Catamaranes](https://commons.wikimedia.org/wiki/Category:Mundo_Marino_Catamaranes)
   
 {% raw %}
 <!-- JSON-LD con eventos corregidos para resultados enriquecidos -->
