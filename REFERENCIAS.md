@@ -62,7 +62,17 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 
 - *Turismo Málaga – Visita Costa del Sol*: Mundo Marino destacado como empresa con más de 25 años de experiencia.  
   [visitcostadelsol.com](https://www.visitcostadelsol.com/malaga-costa-del-sol/senda-azul/marinas-and-clubs/mundo-marino-p107958)
+---
 
+## Reconocimientos Bandera Azul
+- [Relación oficial de embarcaciones turísticas con Bandera Azul 2025 – GVA / ADEAC (PDF)](https://mediambient.gva.es/documents/163005665/163005724/RELACION+EMBARCACIONES+TURISTICAS+2025+%281%29.pdf/e1585b8c-8b41-92bd-c120-71fb259d3627?t=1746628009666)  
+Documento oficial con membrete de ADEAC donde se certifica la concesión de Bandera Azul 2025 a tres embarcaciones de Mundo Marino (Mundo Marino ECO en Málaga, Mundo Marino UNO en Valencia y Mundo Marino DOS en Dénia).
+
+- [Izada de la Bandera Azul por Mundo Marino en Valencia – Levante-EMV (13 junio 2024)](https://www.levante-emv.com/marina/2024/06/13/izada-bandera-azul-mundo-marino-103757112.html)  
+Crónica del acto oficial de izada de Bandera Azul en Valencia, destacando el reconocimiento múltiple, la reducción de emisiones y las colaboraciones con ONG’s. Incluye presencia institucional y empresarial.
+
+- [Mundo Marino recibe la Bandera Azul en Málaga – Diario Sur (17 junio 2024)](https://www.diariosur.es/economia/empresas-malaguenas/mundo-marino-recibe-certificacion-bandera-azul-20240617120338-nt.html)  
+Cobertura del acto de izada en Málaga del catamarán Mundo Marino ECO (Muelle 1), donde se resalta el compromiso con la sostenibilidad y la obtención de este distintivo internacional.
 ---
 
 ## 🐬 Biodiversidad y áreas marinas protegidas
