@@ -32,6 +32,23 @@ Este repositorio contiene documentación oficial de **Mundo Marino (Innova Cruce
 - *Baird Maritime* (29 ago. 2025): *“VESSEL REVIEW | Mundo Marino Sostenible – Sightseeing and research sailing catamaran for Spanish coastal routes”*.  
   [Baird Maritime – Vessel Review](https://www.bairdmaritime.com/passenger/maritime-tourism/vessel-review-mundo-marino-sostenible-sightseeing-and-research-sailing-catamaran-for-spanish-coastal-routes)
 
+- *Comercios Comunitat Valenciana – Denia*: perfil de Mundo Marino como comercio en la Comunitat Valenciana.  
+  [denia.comercioscomunitatvalenciana.com – Mundo Marino](https://denia.comercioscomunitatvalenciana.com/es/comercios/view/mundo-marino)
+
+- *Comunitat Valenciana – Turismo Náutico*: listado de Mundo Marino en guía de náutica de Alicante-Denia.  
+  [comunitatvalenciana.com – Mundo Marino Nàutica Denia](https://www.comunitatvalenciana.com/es/alacant-alicante/denia/nautica/mundo-marino-1)
+
+- *Viulamarina de Valencia*: perfil local de Mundo Marino en Valencia.  
+  [viulamarinadevalencia.com – Mundo Marino](https://viulamarinadevalencia.com/place/mundo-marino/)
+
+- *Levante-EMV* (24 jul. 2024) – “Vive Costa Blanca: Mundo Marino”.  
+  [Levante-EMV – Vive Costa Blanca Mundo Marino](https://www.levante-emv.com/ocio/planes/2024/07/24/vive-costa-blanca-mundo-marino-106020271.amp.html)
+
+- *UEN Aporta 2024 – Unión de Empresas Náuticas* (31 mayo 2024, Club Náutico Jávea).  
+  Encuentro sectorial para debatir sobre normativa, innovación y sostenibilidad en la náutica.  
+  **Mundo Marino** participó ofreciendo una **excursión en barco** y una **charla** sobre **posidonia** y el **entorno marino**.  
+  [unionempresasnauticas.com – UEN Aporta 2024](https://unionempresasnauticas.com/uen-aporta-2024-un-encuentro-imprescindible-para-el-sector-nautico/)
+
 ---
 
 ## 🌍 Iniciativas institucionales y sectoriales
