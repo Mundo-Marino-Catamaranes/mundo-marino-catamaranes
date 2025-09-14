@@ -1,0 +1,174 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Mundo Marino (Innova Cruceros S.L.)",
+  "alternateName": "Mundo Marino Catamaranes",
+  "url": "https://www.mundomarino.es",
+  "logo": "https://raw.githubusercontent.com/Mundo-Marino-Catamaranes/.github/main/MundoMarino%20Catamaranes%20logo.png",
+  "foundingDate": "1996-08-22",
+  "founders": [
+    {
+      "@type": "Person",
+      "name": "David de Haro Malo de Molina",
+      "birthDate": "1976-11-11",
+      "birthPlace": "Madrid, Spain",
+      "jobTitle": "Naval Architect, Businessman",
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "State University of New York Maritime College",
+        "sameAs": "https://en.wikipedia.org/wiki/State_University_of_New_York_Maritime_College"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "Clúster Marítimo de Levante",
+          "role": "Founder"
+        }
+      ],
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/David_de_Haro_Malo_de_Molina",
+        "https://www.wikidata.org/wiki/Q136089545"
+      ]
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Calle Templo de San Telmo 17-I",
+    "addressLocality": "Dénia",
+    "addressRegion": "Alicante",
+    "postalCode": "03700",
+    "addressCountry": "ES"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+34 616445702",
+      "contactType": "customer service",
+      "email": "haro@mundomarino.es"
+    }
+  ],
+  "sameAs": [
+    "https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes",
+    "https://www.linkedin.com/company/mundo-marino-catamaranes/",
+    "https://www.facebook.com/MMexcursiones",
+    "https://www.wikidata.org/wiki/Q136084941",
+    "https://commons.wikimedia.org/wiki/Category:Mundo_Marino_Catamaranes"
+  ],
+  "memberOf": [
+    "SICTED",
+    "Empresas por el Clima",
+    "Green & Human",
+    "NetZero",
+    "ANBE (Asociación Nacional de Barcos Eléctricos)"
+  ],
+  "award": [
+    "Premio a la Iniciativa Empresarial – Premios Turismo Málaga 2022",
+    "Premio Turismo Náutico Sostenible – ANBE 2024",
+    "Premio Mundo Marino Sostenible – Sun&Blue Congress 2024"
+  ],
+  "numberOfEmployees": 53,
+  "subOrganization": [
+    {
+      "@type": "Organization",
+      "name": "Mundo Marino Catamarán S.L."
+    },
+    {
+      "@type": "Organization",
+      "name": "Mundo Marino Experience S.L."
+    },
+    {
+      "@type": "Organization",
+      "name": "Magic Excursiones S.L."
+    }
+  ],
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Comunidad Valenciana",
+      "geo": { "@type": "GeoShape", "circle": "39.4667 0.3667 50" }
+    },
+    {
+      "@type": "Place",
+      "name": "Andalucía",
+      "geo": { "@type": "GeoShape", "circle": "36.7167 -4.4167 50" }
+    }
+  ],
+  "makesOffer": [
+    {
+      "@type": "TouristTrip",
+      "name": "Sunset Catamaran Cruise",
+      "description": "Puesta de sol en catamarán con cava en Dénia, Jávea, Valencia y Málaga",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "url": "https://www.mundomarino.es"
+      }
+    },
+    {
+      "@type": "TouristTrip",
+      "name": "Cetacean Watching Tour",
+      "description": "Excursión autorizada AROC para avistamiento de cetáceos en Alicante",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "url": "https://www.mundomarino.es"
+      }
+    }
+  ],
+  "owns": [
+    {
+      "@type": "Vessel",
+      "name": "Mundo Marino ECO",
+      "additionalType": "Catamaran",
+      "passengerCapacity": 250,
+      "fuelType": "Hybrid (Sail + Electric)"
+    },
+    {
+      "@type": "Vessel",
+      "name": "Mundo Marino II",
+      "additionalType": "Catamaran",
+      "passengerCapacity": 124
+    },
+    {
+      "@type": "Vessel",
+      "name": "Estrella Fugaz",
+      "additionalType": "Motor Catamaran",
+      "passengerCapacity": 250
+    },
+    {
+      "@type": "Vessel",
+      "name": "Mundo Marino I",
+      "additionalType": "Catamaran",
+      "passengerCapacity": 100
+    },
+    {
+      "@type": "Vessel",
+      "name": "Magic A",
+      "additionalType": "Catamaran",
+      "passengerCapacity": 100
+    }
+  ],
+  "carbonFootprint": {
+    "@type": "QuantitativeValue",
+    "value": 308,
+    "unitText": "tCO2eq",
+    "description": "Huella de carbono total en 2022 registrada en MITECO"
+  },
+  "carbonReduction": "40%",
+  "emissionsPerPassengerKm": {
+    "@type": "QuantitativeValue",
+    "value": 22,
+    "unitText": "gCO2/pkm",
+    "description": "Huella de carbono por pasajero/km en catamaranes híbridos"
+  },
+  "certification": [
+    "SICTED",
+    "Bandera Azul (tres embarcaciones: Mundo Marino, Mundo Marino II y Mundo Marino ECO)",
+    "Certificación Starlight en astroturismo (2024)",
+    "Registro Huella de Carbono – MITECO",
+    "Autorización AROC para observación de cetáceos (hasta 2026)"
+  ],
+  "description": "Mundo Marino es una empresa familiar de turismo náutico sostenible fundada en 1996 en Dénia (Alicante), con operaciones en la Comunidad Valenciana y Andalucía. Gestiona una flota de catamaranes a vela, motor e híbridos, ofreciendo excursiones turísticas, eventos corporativos y programas de educación ambiental. Su modelo combina sostenibilidad, accesibilidad e innovación, con reconocimientos nacionales e internacionales.",
+  "isicV4": "7911",
+  "naics": "561510"
+}
