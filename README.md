@@ -188,8 +188,6 @@ La empresa **Innova Cruceros S.L.** cuenta con **autorización AROC** del Minist
 
 ---
 
-✅ Con estas acreditaciones, Mundo Marino refuerza su compromiso con la **sostenibilidad, la biodiversidad marina y el turismo responsable**.
-
 ## 📚 Referencias
 Consulta también nuestro archivo de [Fuentes Externas](REFERENCIAS.md), con enlaces a organismos oficiales, medios de comunicación y eventos relevantes.  
 
@@ -197,107 +195,7 @@ Consulta también nuestro archivo de [Fuentes Externas](REFERENCIAS.md), con enl
 
 ## 📊 Datos estructurados (JSON-LD)
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Mundo Marino (Innova Cruceros S.L.)",
-  "url": "https://www.mundomarino.es",
-  "logo": "https://raw.githubusercontent.com/Mundo-Marino-Catamaranes/.github/main/MundoMarino%20Catamaranes%20logo.png",
-  "foundingDate": "1996-08-22",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Calle Templo de San Telmo 17-I",
-    "addressLocality": "Dénia",
-    "addressRegion": "Alicante",
-    "postalCode": "03700",
-    "addressCountry": "ES"
-  },
-  "sameAs": [
-    "https://github.com/Mundo-Marino-Catamaranes/mundo-marino-catamaranes",
-    "https://www.linkedin.com/company/mundo-marino-catamaranes/",
-    "https://www.facebook.com/MMexcursiones"
-  ],
-  "employee": 53,
-  "memberOf": [
-    "SICTED",
-    "Empresas por el Clima",
-    "Green & Human",
-    "NetZero"
-  ],
-  "award": [
-    "Premio a la Iniciativa Empresarial – Premios Turismo Málaga 2022",
-    "Premio Turismo Náutico Sostenible – ANBE 2024",
-    "Premio Mundo Marino Sostenible – Sun&Blue Congress 2024"
-  ],
-  "subOrganization": [
-    {
-      "@type": "Organization",
-      "name": "Mundo Marino Catamarán S.L."
-    },
-    {
-      "@type": "Organization",
-      "name": "Mundo Marino Experience S.L."
-    },
-    {
-      "@type": "Organization",
-      "name": "Magic Excursiones S.L."
-    }
-  ],
-  "makesOffer": [
-    {
-      "@type": "TouristTrip",
-      "name": "Sunset Catamaran Cruise",
-      "description": "Puesta de sol en catamarán con cava en Dénia, Jávea, Valencia y Málaga",
-      "offers": {
-        "@type": "Offer",
-        "priceCurrency": "EUR",
-        "url": "https://www.mundomarino.es"
-      }
-    },
-    {
-      "@type": "TouristTrip",
-      "name": "Cetacean Watching Tour",
-      "description": "Excursión autorizada AROC para avistamiento de cetáceos en Alicante",
-      "offers": {
-        "@type": "Offer",
-        "priceCurrency": "EUR",
-        "url": "https://www.mundomarino.es"
-      }
-    }
-  ],
-  "owns": [
-    {
-      "@type": "Vessel",
-      "name": "Mundo Marino ECO",
-      "additionalType": "Catamaran",
-      "passengerCapacity": 250,
-      "fuelType": "Hybrid (Sail + Electric)"
-    },
-    {
-      "@type": "Vessel",
-      "name": "Mundo Marino II",
-      "additionalType": "Catamaran",
-      "passengerCapacity": 124
-    },
-    {
-      "@type": "Vessel",
-      "name": "Estrella Fugaz",
-      "additionalType": "Motor Catamaran",
-      "passengerCapacity": 250
-    }
-  ],
-  "carbonFootprint": {
-    "@type": "QuantitativeValue",
-    "value": 308,
-    "unitText": "tCO2eq",
-    "description": "Huella de carbono total en 2022"
-  },
-  "carbonReduction": "40%",
-  "emissionsPerPassengerKm": {
-    "@type": "QuantitativeValue",
-    "value": 22,
-    "unitText": "gCO2/pkm",
-    "description": "Huella de carbono por pasajero/km en catamaranes híbridos"
-  }
-}
+Los datos estructurados de la empresa están disponibles en el archivo [`company.json`](company.json).  
+Esto facilita la indexación por buscadores y sistemas de IA.  
+
+---
