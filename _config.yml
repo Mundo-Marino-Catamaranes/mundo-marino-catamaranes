@@ -7,7 +7,21 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+optional_front_matter:
+  remove_originals: true
+defaults:
+  - scope:
+      path: archivo/REFERENCIAS-2025.md
+    values:
+      layout: default
+      title: Referencias de 2025 — archivo histórico
+      description: Copia histórica de las referencias de Mundo Marino de 2025, conservada con su contenido original y diferenciada de las fuentes actuales.
+      lang: es
+      historical: true
 exclude:
+  - README.md
+  - trash.html
+  - trash2.html
   - scripts
   - templates
   - requirements.txt

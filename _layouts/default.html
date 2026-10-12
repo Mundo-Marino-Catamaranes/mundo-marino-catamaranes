@@ -5,15 +5,28 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{{ page.title | default: site.title | escape }}</title>
 <meta name="description" content="{{ page.description | default: 'Fuentes, reconocimientos y rutas de Mundo Marino Catamaranes, España.' | escape }}">
+{% if page.historical %}<meta name="robots" content="noindex,follow">{% endif %}
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 {% if page.alternate_es and page.alternate_en %}
 <link rel="alternate" hreflang="es" href="{{ page.alternate_es | absolute_url }}">
 <link rel="alternate" hreflang="en" href="{{ page.alternate_en | absolute_url }}">
 {% endif %}
-<style>body{margin:0;background:#f6f8fa;color:#183141;font:18px/1.65 system-ui,-apple-system,sans-serif}header,main,footer,nav{max-width:1060px;margin:auto;padding:1rem 1.5rem}header{padding-top:2.5rem}nav{display:flex;gap:1rem;flex-wrap:wrap;border-bottom:1px solid #ccd9df}a{color:#075e7a;text-underline-offset:.18em}a:focus-visible{outline:3px solid #b77600;outline-offset:4px}h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.15}h2{margin-top:2.2rem;font-size:1.55rem}h3{font-size:1.15rem;margin-bottom:.25rem}.eyebrow{color:#375868;font-size:.9rem;letter-spacing:.05em}section{margin-bottom:2rem}table{width:100%;border-collapse:collapse;font-size:.95rem}th,td{text-align:left;padding:.7rem;border-bottom:1px solid #ccd9df;vertical-align:top}footer{font-size:.85rem;color:#375868;border-top:1px solid #ccd9df}.skip{position:absolute;left:-10000px}.skip:focus{position:static}.scroll{overflow-x:auto}</style>
+<style>body{margin:0;background:#f6f8fa;color:#183141;font:18px/1.65 system-ui,-apple-system,sans-serif}header,main,footer,nav{max-width:1060px;margin:auto;padding:1rem 1.5rem}main{overflow-wrap:anywhere}header{padding-top:2.5rem}nav{display:flex;gap:1rem;flex-wrap:wrap;border-bottom:1px solid #ccd9df}a{color:#075e7a;text-underline-offset:.18em}a:focus-visible{outline:3px solid #b77600;outline-offset:4px}h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.15}h2{margin-top:2.2rem;font-size:1.55rem}h3{font-size:1.15rem;margin-bottom:.25rem}.eyebrow{color:#375868;font-size:.9rem;letter-spacing:.05em}section{margin-bottom:2rem}table{width:100%;border-collapse:collapse;font-size:.95rem}th,td{text-align:left;padding:.7rem;border-bottom:1px solid #ccd9df;vertical-align:top}footer{font-size:.85rem;color:#375868;border-top:1px solid #ccd9df}.skip{position:absolute;left:-10000px}.skip:focus{position:static}.scroll{overflow-x:auto}</style>
 </head>
 <body>
-<a class="skip" href="#contenido">Saltar al contenido / Skip to content</a>
+{% if page.lang == 'en' %}
+<a class="skip" href="#contenido">Skip to content</a>
+<header><strong>Mundo Marino Catamaranes · Spain</strong></header>
+<nav aria-label="Documentation">
+<a href="{{ '/README_en.html' | relative_url }}">Home</a>
+<a href="{{ '/PRENSA.html' | relative_url }}" hreflang="es">Press</a>
+<a href="{{ '/PREMIOS.html' | relative_url }}" hreflang="es">Awards</a>
+<a href="{{ '/RUTAS.html' | relative_url }}" hreflang="es">Routes</a>
+<a href="{{ '/REFERENCIAS.html' | relative_url }}" hreflang="es">Sources</a>
+<a href="{{ '/' | relative_url }}" lang="es" hreflang="es">Español</a>
+</nav>
+{% else %}
+<a class="skip" href="#contenido">Saltar al contenido</a>
 <header><strong>Mundo Marino Catamaranes · España</strong></header>
 <nav aria-label="Documentación">
 <a href="{{ '/' | relative_url }}">Inicio</a>
@@ -21,9 +34,23 @@
 <a href="{{ '/PREMIOS.html' | relative_url }}">Reconocimientos</a>
 <a href="{{ '/RUTAS.html' | relative_url }}">Rutas</a>
 <a href="{{ '/REFERENCIAS.html' | relative_url }}">Fuentes</a>
-<a href="{{ '/README_en.html' | relative_url }}">English</a>
+<a href="{{ '/README_en.html' | relative_url }}" lang="en" hreflang="en">English</a>
 </nav>
-<main id="contenido">{{ content }}</main>
+{% endif %}
+<main id="contenido">
+{% if page.historical %}
+<h1>Archivo de referencias de 2025</h1>
+<aside id="aviso-historico" aria-label="Aviso de documento histórico">
+<p><strong>Archivo histórico de 2025.</strong> Esta copia conserva las referencias originales; no acredita por sí sola la vigencia actual de los datos, certificados o autorizaciones mencionados.</p>
+<p>Consulta las <a href="{{ '/REFERENCIAS.html' | relative_url }}">fuentes de la edición actual</a> y el <a href="{{ '/ARCHIVO.html' | relative_url }}">alcance temporal de los documentos</a>.</p>
+<hr>
+</aside>
+{% endif %}
+{{ content }}</main>
+{% if page.lang == 'en' %}
+<footer>Public documentation. Confirm bookings, prices and availability at <a href="https://mundomarino.es/">mundomarino.es</a>.</footer>
+{% else %}
 <footer>Documentación pública. Las reservas, precios y disponibilidad se confirman en <a href="https://mundomarino.es/">mundomarino.es</a>.</footer>
+{% endif %}
 </body>
 </html>

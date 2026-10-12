@@ -31,6 +31,9 @@ class Page(HTMLParser):
         self.canonicals = []
         self.alternates = {}
         self.description = None
+        self.robots = set()
+        self.navigation_labels = []
+        self.language_links = []
         self.links = []
         self.ids = set()
         self.jsonld = []
@@ -44,11 +47,16 @@ class Page(HTMLParser):
         if attrs.get("id"): self.ids.add(attrs["id"])
         if tag == "meta" and attrs.get("name") == "description":
             self.description = attrs.get("content")
+        if tag == "meta" and attrs.get("name") == "robots":
+            self.robots.update(value.strip().lower() for value in attrs.get("content", "").split(","))
+        if tag == "nav": self.navigation_labels.append(attrs.get("aria-label"))
         if tag == "link" and attrs.get("rel") == "canonical":
             self.canonicals.append(attrs.get("href"))
         if tag == "link" and attrs.get("rel") == "alternate":
             self.alternates[attrs.get("hreflang")] = attrs.get("href")
         if tag == "a" and attrs.get("href"): self.links.append(attrs["href"])
+        if tag == "a" and attrs.get("lang"):
+            self.language_links.append((attrs.get("href"), attrs["lang"]))
         if tag == "script" and attrs.get("type") == "application/ld+json":
             self.capture = True
             self.jsonld.append("")
@@ -80,6 +88,7 @@ def main():
         require(page.lang == ("en" if url.endswith("README_en.html") else "es"), "Wrong language: " + url)
         require(page.canonicals == [url], "Wrong canonical: " + url)
         require(page.description, "Missing description: " + url)
+        require(not page.robots.intersection({"noindex", "none"}), "Current page blocks indexing: " + url)
         for value in page.jsonld: json.loads(value)
         for href in page.links:
             target_url = urlsplit(urljoin(url, href))
@@ -98,14 +107,22 @@ def main():
         require(pages[url].alternates == expected_alternates, "Missing reciprocal hreflang: " + url)
     require(json.loads(pages[BASE].jsonld[0]) == json.loads((site / "company.json").read_text()),
             "Rendered organisation JSON-LD differs from company.json")
+    english = pages[BASE + "README_en.html"]
+    require(english.navigation_labels == ["Documentation"], "English navigation is not labelled in English")
+    require(("./", "es") in english.language_links, "Spanish return link lacks its language")
     for name, expected_hash in HISTORICAL.items():
         require(hashlib.sha256((site / name).read_bytes()).hexdigest() == expected_hash,
                 "Historical PDF changed or missing: " + name)
     archive = (ROOT / "archivo/REFERENCIAS-2025.md").read_bytes()
     require(hashlib.sha1(b"blob " + str(len(archive)).encode() + b"\0" + archive).hexdigest()
             == "3b082e1bd11cbdcef34ae47c75b8708139f12a3f", "Historical references changed")
-    require((site / "archivo/REFERENCIAS-2025.html").is_file(), "Historical references not rendered")
-    print("OK: seven rendered pages, internal links, canonical, languages, JSON-LD and five unchanged historical PDFs.")
+    historical = Page((site / "archivo/REFERENCIAS-2025.html").read_text(encoding="utf-8"))
+    require(historical.h1 == 1, "Historical references need one main heading")
+    require("aviso-historico" in historical.ids, "Historical references lack a visible context notice")
+    require(historical.robots == {"noindex", "follow"}, "Historical references must not compete with current sources")
+    for path in ("README.md", "CHANGELOG.md", "archivo/REFERENCIAS-2025.md", "trash.html", "trash2.html"):
+        require(not (site / path).exists(), "Unintended source or empty page published: " + path)
+    print("OK: seven current pages, links, SEO, languages, JSON-LD, contextualised archive and five unchanged PDFs.")
 
 
 if __name__ == "__main__":

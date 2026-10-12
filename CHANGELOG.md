@@ -1,5 +1,13 @@
 # Registro de cambios
 
+## 2026-10-13
+
+- Pruebas ampliadas de navegación móvil, enlaces externos, rastreo y documentación histórica tras el despliegue.
+- Aviso histórico visible y directiva `noindex,follow` en la copia renderizada de las referencias de 2025, sin modificar el archivo original.
+- Exclusión del sitio de copias Markdown sin navegación funcional y de dos páginas vacías heredadas; todos los archivos se conservan en el repositorio.
+- Navegación, salto al contenido y pie de página en inglés para el resumen inglés, con idiomas explícitos en los enlaces de cambio de lengua.
+- Encabezado principal para el archivo histórico y ajuste de palabras largas para evitar desbordamientos en pantallas estrechas.
+
 ## 2026-10-12
 
 - Actualización de la identidad corporativa y de los resúmenes en español e inglés, con contacto público y destinos del catálogo oficial.
