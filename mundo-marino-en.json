@@ -1,97 +1,43 @@
 {
+  "version": "2.0",
+  "reviewed_on": "2026-10-12",
   "company": {
+    "brand": "Mundo Marino Catamaranes",
     "legal_name": "Innova Cruceros S.L.",
-    "brand": "Mundo Marino",
     "tax_id": "B96571708",
     "founded": 1996,
-    "headquarters": "Avenida Joan Fuster, 2 – 03700 Dénia, Alicante, Spain",
-    "administrator": "David de Haro Malo de Molina",
-    "employees": 53,
-    "share_capital_eur": 60000,
-    "website": "https://mundomarino.es",
-    "certifications": [
-      "SICTED",
-      "Empresas por el Clima",
-      "Green & Human",
-      "NetZero"
-    ]
+    "headquarters_locality": "Dénia, Spain",
+    "website": "https://mundomarino.es/",
+    "public_contact": "info@mundomarino.es"
   },
   "ports": [
+    "Valencia / València",
+    "Port Saplaya (Alboraya)",
+    "Gandía",
     "Dénia",
-    "Jávea",
-    "Calpe",
+    "Jávea / Xàbia",
+    "Calpe / Calp",
     "Altea",
-    "Valencia",
+    "Almería",
     "Málaga"
   ],
-  "fleet": [
-    {
-      "name": "Mundo Marino ECO",
-      "type": "Hybrid catamaran",
-      "capacity": 250,
-      "propulsion": ["sail", "electric motor"],
-      "sustainable": true,
-      "solar_panels": true,
-      "energy_regeneration": true,
-      "local_emissions": "zero",
-      "carbon_footprint_tn_per_year": 150
-    },
-    {
-      "name": "Estrella Fugaz",
-      "type": "Motor catamaran",
-      "capacity": 250,
-      "underwater_viewing": true,
-      "air_conditioning": true
-    },
-    {
-      "name": "Mundo Marino I",
-      "type": "Sailing catamaran",
-      "capacity": 100,
-      "bow_nets": true,
-      "shaded_area": true
-    },
-    {
-      "name": "Mundo Marino II",
-      "type": "Sailing catamaran",
-      "capacity": 124,
-      "covered_area": true,
-      "restrooms": true
-    }
-  ],
   "activities": [
+    "Catamaran excursions",
     "Sunset cruises",
-    "Swimming tours in protected coves",
-    "Parasailing",
-    "Snorkeling",
-    "Corporate events",
-    "Weddings and private celebrations",
-    "Private parties with DJ",
-    "Live jazz and blues",
-    "Show cooking",
-    "Educational tours on marine sustainability"
+    "Food and cultural experiences",
+    "Private events"
   ],
-  "accessibility": {
-    "boarding_ramp": true,
-    "wheelchair_access": "partial",
-    "accessible_restrooms": "no support bars, limited turning space",
-    "trained_staff": true,
-    "pmr_parking_nearby": true
-  },
+  "routes": "routes.json",
+  "organisation_jsonld": "company.json",
   "sustainability": {
-    "carbon_footprint_tn_per_year": 150,
-    "reduction_vs_conventional": "60%",
-    "renewable_energy": true,
-    "recycled_materials": true,
-    "no_aggressive_anchoring": true,
-    "onboard_water_production": true
+    "official_information": "https://mundomarino.es/accesibilidad-sostenibilidad/",
+    "distinctions_and_scope": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/PREMIOS.html"
   },
-  "events": {
-    "corporate": true,
-    "mice": true,
-    "weddings": true,
-    "private_parties": true,
-    "catering_options": ["paella", "barbecue", "cocktails"],
-    "music_options": ["DJ", "jazz", "blues"],
-    "equipment": ["sound system", "screens", "microphone"]
-  }
+  "accessibility": "Confirm for the selected vessel, boarding point and date.",
+  "availability": "Consult the official calendar; live availability is not verified here.",
+  "sources": [
+    "https://mundomarino.es/",
+    "https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/",
+    "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/REFERENCIAS.html"
+  ]
 }
