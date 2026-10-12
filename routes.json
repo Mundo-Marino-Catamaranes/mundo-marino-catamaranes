@@ -1,0 +1,73 @@
+{
+  "version": "2.0",
+  "reviewed_on": "2026-10-12",
+  "scope": "Selección de productos del catálogo; no es un calendario de disponibilidad ni una relación de fechas de inauguración.",
+  "routes": [
+    {
+      "id": "almeria-paseo",
+      "destination": "Almería",
+      "name_es": "Excursión en catamarán desde Almería",
+      "name_en": "Almería catamaran sightseeing trip",
+      "published_duration_minutes": 60,
+      "summary_es": "Paseo panorámico por la bahía. No se presenta como excursión a todas las calas de Cabo de Gata.",
+      "official_url": "https://mundomarino.es/excursiones-en-barco-almeria/excursion-en-catamaran-desde-almeria/",
+      "status": "published_in_official_catalogue",
+      "live_availability_verified": false
+    },
+    {
+      "id": "almeria-atardecer",
+      "destination": "Almería",
+      "name_es": "Puesta de sol en catamarán desde Almería",
+      "name_en": "Almería sunset catamaran cruise",
+      "published_duration_minutes": 60,
+      "summary_es": "Salida de atardecer; la ficha incluye una copa de cava. Confirmar horario en el calendario.",
+      "official_url": "https://mundomarino.es/excursiones-en-barco-almeria/puesta-de-sol-en-catamaran-desde-almeria/",
+      "status": "published_in_official_catalogue",
+      "live_availability_verified": false
+    },
+    {
+      "id": "almeria-sabores",
+      "destination": "Almería",
+      "name_es": "Sabores de la Costa de Almería: Tradición y Mar",
+      "name_en": "Flavours of the Almería coast",
+      "published_duration_minutes": 180,
+      "summary_es": "Programa gastronómico con degustación. La ficha también contempla baño, sujeto a las condiciones de la salida.",
+      "official_url": "https://mundomarino.es/excursiones-en-barco-almeria/sabores-de-la-costa-de-almeria-tradicion-y-mar/",
+      "status": "published_in_official_catalogue",
+      "live_availability_verified": false
+    },
+    {
+      "id": "almeria-eterna",
+      "destination": "Almería",
+      "name_es": "Almería Eterna: Viaje por la Historia y el Arte",
+      "name_en": "Almería history and art boat experience",
+      "published_duration_minutes": 180,
+      "summary_es": "Programa cultural con explicación histórica. No equivale al paseo panorámico de una hora.",
+      "official_url": "https://mundomarino.es/excursiones-en-barco-almeria/almeria-eterna-viaje-por-la-historia-y-el-arte/",
+      "status": "published_in_official_catalogue",
+      "live_availability_verified": false
+    },
+    {
+      "id": "port-saplaya-valencia",
+      "destination": "Port Saplaya / Valencia",
+      "name_es": "Paseo en barco Port Saplaya–Valencia",
+      "name_en": "Port Saplaya–Valencia boat connection",
+      "published_duration_minutes": 30,
+      "summary_es": "Duración aproximada por trayecto. Confirmar sentido, regreso y horarios disponibles.",
+      "official_url": "https://mundomarino.es/paseos-en-barco-port-saplaya/paseo-en-barco-port-saplaya/",
+      "status": "published_in_official_catalogue",
+      "live_availability_verified": false
+    },
+    {
+      "id": "malaga-navegacion",
+      "destination": "Málaga",
+      "name_es": "Mundo Marino Sostenible: descubre la navegación del futuro",
+      "name_en": "Discover the future of sailing in Málaga",
+      "published_duration_minutes": 60,
+      "summary_es": "Experiencia divulgativa sobre navegación y sostenibilidad descrita en el catálogo oficial.",
+      "official_url": "https://mundomarino.es/puerto-malaga/mundo-marino-sostenible-descubre-la-navegacion-del-futuro/",
+      "status": "published_in_official_catalogue",
+      "live_availability_verified": false
+    }
+  ]
+}

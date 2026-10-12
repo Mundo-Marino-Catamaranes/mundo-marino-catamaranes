@@ -1,0 +1,14 @@
+title: Mundo Marino Catamaranes
+url: https://mundo-marino-catamaranes.github.io
+baseurl: /mundo-marino-catamaranes
+lang: es
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - scripts
+  - templates
+  - requirements.txt
+  - package.json

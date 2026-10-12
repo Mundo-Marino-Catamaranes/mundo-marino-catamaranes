@@ -1,37 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-  <!-- Página principal -->
-  <url>
-    <loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/</loc>
-    <lastmod>2025-08-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Página de Referencias -->
-  <url>
-    <loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/REFERENCIAS.html</loc>
-    <lastmod>2025-08-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Documentos PDF -->
-  <url>
-    <loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/doc/Certificado_AROC_MundoMarino.pdf</loc>
-    <lastmod>2025-08-30</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/doc/Huella_Carbono_MITECO.pdf</loc>
-    <lastmod>2025-08-30</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/</loc><lastmod>2026-10-12</lastmod></url>
+  <url><loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/PRENSA.html</loc><lastmod>2026-10-12</lastmod></url>
+  <url><loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/PREMIOS.html</loc><lastmod>2026-10-12</lastmod></url>
+  <url><loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/RUTAS.html</loc><lastmod>2026-10-12</lastmod></url>
+  <url><loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/REFERENCIAS.html</loc><lastmod>2026-10-12</lastmod></url>
+  <url><loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/README_en.html</loc><lastmod>2026-10-12</lastmod></url>
+  <url><loc>https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/ARCHIVO.html</loc><lastmod>2026-10-12</lastmod></url>
 </urlset>
