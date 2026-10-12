@@ -7,7 +7,7 @@ alternate_es: /
 alternate_en: /README_en.html
 ---
 
-[Leer en español](./)
+<a href="./" lang="es" hreflang="es">Leer en español</a>
 
 # Mundo Marino Catamaranes — Spain
 
