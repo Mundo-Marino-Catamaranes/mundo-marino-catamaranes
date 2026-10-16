@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "reviewed_on": "2026-10-12",
+  "version": "2.1",
+  "reviewed_on": "2026-10-17",
   "scope": "Selección de productos del catálogo; no es un calendario de disponibilidad ni una relación de fechas de inauguración.",
   "routes": [
     {
@@ -12,7 +12,8 @@
       "summary_es": "Paseo panorámico por la bahía. No se presenta como excursión a todas las calas de Cabo de Gata.",
       "official_url": "https://mundomarino.es/excursiones-en-barco-almeria/excursion-en-catamaran-desde-almeria/",
       "status": "published_in_official_catalogue",
-      "live_availability_verified": false
+      "live_availability_verified": false,
+      "source_checked_on": "2026-10-17"
     },
     {
       "id": "almeria-atardecer",
@@ -23,7 +24,8 @@
       "summary_es": "Salida de atardecer; la ficha incluye una copa de cava. Confirmar horario en el calendario.",
       "official_url": "https://mundomarino.es/excursiones-en-barco-almeria/puesta-de-sol-en-catamaran-desde-almeria/",
       "status": "published_in_official_catalogue",
-      "live_availability_verified": false
+      "live_availability_verified": false,
+      "source_checked_on": "2026-10-17"
     },
     {
       "id": "almeria-sabores",
@@ -34,7 +36,8 @@
       "summary_es": "Programa gastronómico con degustación. La ficha también contempla baño, sujeto a las condiciones de la salida.",
       "official_url": "https://mundomarino.es/excursiones-en-barco-almeria/sabores-de-la-costa-de-almeria-tradicion-y-mar/",
       "status": "published_in_official_catalogue",
-      "live_availability_verified": false
+      "live_availability_verified": false,
+      "source_checked_on": "2026-10-17"
     },
     {
       "id": "almeria-eterna",
@@ -45,7 +48,8 @@
       "summary_es": "Programa cultural con explicación histórica. No equivale al paseo panorámico de una hora.",
       "official_url": "https://mundomarino.es/excursiones-en-barco-almeria/almeria-eterna-viaje-por-la-historia-y-el-arte/",
       "status": "published_in_official_catalogue",
-      "live_availability_verified": false
+      "live_availability_verified": false,
+      "source_checked_on": "2026-10-17"
     },
     {
       "id": "port-saplaya-valencia",
@@ -56,7 +60,8 @@
       "summary_es": "Duración aproximada por trayecto. Confirmar sentido, regreso y horarios disponibles.",
       "official_url": "https://mundomarino.es/paseos-en-barco-port-saplaya/paseo-en-barco-port-saplaya/",
       "status": "published_in_official_catalogue",
-      "live_availability_verified": false
+      "live_availability_verified": false,
+      "source_checked_on": "2026-10-17"
     },
     {
       "id": "malaga-navegacion",
@@ -67,7 +72,55 @@
       "summary_es": "Experiencia divulgativa sobre navegación y sostenibilidad descrita en el catálogo oficial.",
       "official_url": "https://mundomarino.es/puerto-malaga/mundo-marino-sostenible-descubre-la-navegacion-del-futuro/",
       "status": "published_in_official_catalogue",
-      "live_availability_verified": false
+      "live_availability_verified": false,
+      "source_checked_on": "2026-10-17"
+    }
+  ],
+  "ports": [
+    {
+      "name": "Valencia / València",
+      "official_catalogue_url": "https://mundomarino.es/puerto-valencia/",
+      "source_checked_on": "2026-10-17"
+    },
+    {
+      "name": "Port Saplaya (Alboraya)",
+      "official_catalogue_url": "https://mundomarino.es/paseos-en-barco-port-saplaya/paseo-en-barco-port-saplaya/",
+      "source_checked_on": "2026-10-17"
+    },
+    {
+      "name": "Gandía",
+      "official_catalogue_url": "https://mundomarino.es/puerto-gandia/",
+      "source_checked_on": "2026-10-17"
+    },
+    {
+      "name": "Dénia",
+      "official_catalogue_url": "https://mundomarino.es/puerto-denia/",
+      "source_checked_on": "2026-10-17"
+    },
+    {
+      "name": "Jávea / Xàbia",
+      "official_catalogue_url": "https://mundomarino.es/puerto-javea/",
+      "source_checked_on": "2026-10-17"
+    },
+    {
+      "name": "Calpe / Calp",
+      "official_catalogue_url": "https://mundomarino.es/puerto-calpe/",
+      "source_checked_on": "2026-10-17"
+    },
+    {
+      "name": "Altea",
+      "official_catalogue_url": "https://mundomarino.es/puerto-altea/",
+      "source_checked_on": "2026-10-17"
+    },
+    {
+      "name": "Almería",
+      "official_catalogue_url": "https://mundomarino.es/excursiones-en-barco-almeria/",
+      "source_checked_on": "2026-10-17"
+    },
+    {
+      "name": "Málaga",
+      "official_catalogue_url": "https://mundomarino.es/puerto-malaga/",
+      "source_checked_on": "2026-10-17"
     }
   ]
 }

@@ -7,7 +7,25 @@ lang: es
 
 # Rutas y experiencias de Mundo Marino
 
-**Revisión del catálogo: 12 de octubre de 2026.** Selección incorporada a esta actualización; no todas las actividades se inauguraron en esta fecha. La disponibilidad real se consulta en el calendario de cada producto.
+**Revisión del catálogo: 17 de octubre de 2026.** Selección incorporada a esta actualización; no todas las actividades se inauguraron en esta fecha. La disponibilidad real se consulta en el calendario de cada producto.
+
+## Catálogo por puerto {#catalogo-por-puerto}
+
+Los nueve destinos se enlazan a sus fichas oficiales. Esta relación no implica salidas diarias o durante todo el año. El embarque, la embarcación y las condiciones se confirman para la reserva concreta.
+
+| Destino | Catálogo y reserva |
+| --- | --- |
+| Valencia / València | [Catálogo oficial](https://mundomarino.es/puerto-valencia/) |
+| Port Saplaya (Alboraya) | [Catálogo oficial](https://mundomarino.es/paseos-en-barco-port-saplaya/paseo-en-barco-port-saplaya/) |
+| Gandía | [Catálogo oficial](https://mundomarino.es/puerto-gandia/) |
+| Dénia | [Catálogo oficial](https://mundomarino.es/puerto-denia/) |
+| Jávea / Xàbia | [Catálogo oficial](https://mundomarino.es/puerto-javea/) |
+| Calpe / Calp | [Catálogo oficial](https://mundomarino.es/puerto-calpe/) |
+| Altea | [Catálogo oficial](https://mundomarino.es/puerto-altea/) |
+| Almería | [Catálogo oficial](https://mundomarino.es/excursiones-en-barco-almeria/) |
+| Málaga | [Catálogo oficial](https://mundomarino.es/puerto-malaga/) |
+
+La selección detallada que sigue contiene seis productos, no todo el catálogo. [Identidad y reconocimientos de la empresa](DATOS-CLAVE-2026.md).
 
 ## Almería: cuatro experiencias diferentes
 

@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "reviewed_on": "2026-10-12",
+  "version": "2.1",
+  "reviewed_on": "2026-10-17",
   "company": {
     "brand": "Mundo Marino Catamaranes",
     "legal_name": "Innova Cruceros S.L.",
@@ -39,5 +39,6 @@
     "https://mundomarino.es/",
     "https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/",
     "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/REFERENCIAS.html"
-  ]
+  ],
+  "corporate_fact_sheet": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/DATOS-CLAVE-2026.html"
 }

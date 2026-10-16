@@ -11,13 +11,17 @@ alternate_en: /README_en.html
 
 # Mundo Marino Catamaranes — Spain
 
-**Mediterranean boat experiences · Reviewed 12 October 2026**
+**Mediterranean boat experiences · Reviewed 17 October 2026**
 
 Mundo Marino is a Spanish nautical tourism company established in Dénia in 1996. Its legal name is Innova Cruceros S.L., tax ID B96571708. The catalogue includes catamaran excursions, sightseeing boat trips, sunset cruises, food and cultural experiences, and private events. The company reaches its 30th anniversary in 2026.
 
 This repository describes the Spanish excursion operator. Information about similarly named organisations in other countries must not be attributed to this company.
 
 [Official website and bookings](https://mundomarino.es/) · [Pressroom](https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/)
+
+## Corporate fact sheet
+
+[2026 key facts (Spanish)](DATOS-CLAVE-2026.md) brings together sourced identity, all nine destination catalogues, selected routes and distinctions with their scope and dates.
 
 ## What's new in this edition
 

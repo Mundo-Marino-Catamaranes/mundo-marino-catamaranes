@@ -74,7 +74,7 @@ def main():
     site = parser.parse_args().site.resolve()
     locations = ElementTree.parse(site / "sitemap.xml").findall(
         ".//{http://www.sitemaps.org/schemas/sitemap/0.9}loc")
-    require(len(locations) == 7, "Rendered sitemap must contain seven current pages")
+    require(len(locations) == 8, "Rendered sitemap must contain eight current pages")
     pages = {}
     for loc in locations:
         url = loc.text
@@ -90,6 +90,12 @@ def main():
         require(page.description, "Missing description: " + url)
         require(not page.robots.intersection({"noindex", "none"}), "Current page blocks indexing: " + url)
         for value in page.jsonld: json.loads(value)
+        if url != BASE:
+            crumbs = [json.loads(value) for value in page.jsonld if json.loads(value).get("@type") == "BreadcrumbList"]
+            require(len(crumbs) == 1, "Missing unique breadcrumb schema: " + url)
+            require(crumbs[0]["itemListElement"][-1]["item"] == url, "Breadcrumb URL mismatch: " + url)
+        require(any(urljoin(url, href) == BASE + "DATOS-CLAVE-2026.html" for href in page.links),
+                "Corporate fact sheet missing from navigation: " + url)
         for href in page.links:
             target_url = urlsplit(urljoin(url, href))
             if target_url.scheme not in ("http", "https") or target_url.netloc != urlsplit(BASE).netloc:
@@ -107,6 +113,22 @@ def main():
         require(pages[url].alternates == expected_alternates, "Missing reciprocal hreflang: " + url)
     require(json.loads(pages[BASE].jsonld[0]) == json.loads((site / "company.json").read_text()),
             "Rendered organisation JSON-LD differs from company.json")
+    facts = pages[BASE + "DATOS-CLAVE-2026.html"]
+    graphs = [json.loads(value)["@graph"] for value in facts.jsonld if "@graph" in json.loads(value)]
+    require(len(graphs) == 1, "Expected one corporate fact graph")
+    graph = graphs[0]
+    organisation = next(item for item in graph if item["@type"] == "Organization")
+    require({"@context": "https://schema.org", **organisation} == json.loads((site / "company.json").read_text()),
+            "Fact sheet organisation differs from canonical identity")
+    catalogue = next(item for item in graph if item["@type"] == "ItemList")
+    port_data = json.loads((site / "routes.json").read_text())["ports"]
+    require(catalogue["numberOfItems"] == len(port_data) == len(catalogue["itemListElement"]),
+            "Fact sheet catalogue count mismatch")
+    require([item["url"] for item in catalogue["itemListElement"]] == [p["official_catalogue_url"] for p in port_data],
+            "Fact sheet catalogue URLs differ from route data")
+    require(all(p["official_catalogue_url"] in facts.links for p in port_data), "Structured catalogues are not visible")
+    require(next(item for item in graph if item["@type"] == "AboutPage")["mainEntity"]["@id"] == organisation["@id"],
+            "Fact sheet uses a different organisation identity")
     english = pages[BASE + "README_en.html"]
     require(english.navigation_labels == ["Documentation"], "English navigation is not labelled in English")
     require(("./", "es") in english.language_links, "Spanish return link lacks its language")
@@ -122,7 +144,7 @@ def main():
     require(historical.robots == {"noindex", "follow"}, "Historical references must not compete with current sources")
     for path in ("README.md", "CHANGELOG.md", "archivo/REFERENCIAS-2025.md", "trash.html", "trash2.html"):
         require(not (site / path).exists(), "Unintended source or empty page published: " + path)
-    print("OK: seven current pages, links, SEO, languages, JSON-LD, contextualised archive and five unchanged PDFs.")
+    print("OK: eight current pages, navigation, SEO, languages, corporate graph, breadcrumbs, contextualised archive and five unchanged PDFs.")
 
 
 if __name__ == "__main__":

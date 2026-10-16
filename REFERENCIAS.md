@@ -7,13 +7,15 @@ lang: es
 
 # Fuentes y referencias
 
-**Revisión editorial: 12 de octubre de 2026.** Fuentes organizadas por la afirmación que respaldan. La existencia de un enlace no convierte al editor en avalista de toda la actividad de la empresa.
+**Revisión editorial: 17 de octubre de 2026.** Fuentes organizadas por la afirmación que respaldan. La existencia de un enlace no convierte al editor en avalista de toda la actividad de la empresa.
+
+[Datos clave 2026 — ficha corporativa de referencia](DATOS-CLAVE-2026.md).
 
 ## Empresa, destinos y productos
 
-[Web y catálogo oficiales](https://mundomarino.es/) · [Contacto público](https://mundomarino.es/contacto/) · [Accesibilidad y sostenibilidad](https://mundomarino.es/accesibilidad-sostenibilidad/).
+[Aviso legal — razón social y NIF](https://mundomarino.es/aviso-legal/) · [Perfil corporativo — fundación](https://www.linkedin.com/company/mundo-marino-catamaranes/) · [Web y catálogo oficiales](https://mundomarino.es/) · [Contacto público](https://mundomarino.es/contacto/) · [Accesibilidad y sostenibilidad](https://mundomarino.es/accesibilidad-sostenibilidad/).
 
-Las seis fichas concretas y sus duraciones se enlazan individualmente en [RUTAS.md](RUTAS.md) y [routes.json](routes.json).
+Los nueve catálogos por puerto y las seis fichas concretas y sus duraciones se enlazan individualmente en [RUTAS.md](RUTAS.md) y [routes.json](routes.json).
 
 ## Prensa y actualidad
 

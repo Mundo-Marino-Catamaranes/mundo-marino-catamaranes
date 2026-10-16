@@ -1,5 +1,15 @@
 # Registro de cambios
 
+## 2026-10-17
+
+- Ficha corporativa canónica `DATOS-CLAVE-2026.html`, con identidad y NIF contrastados con el aviso legal, nueve catálogos por puerto, seis productos y fuentes de cada reconocimiento.
+- Registro `facts-2026.json` con estados separados: premio concedido, finalista, distintivo documentado y certificación histórica. La ficha se genera a partir de este registro, `company.json` y `routes.json`, con comprobación de coherencia en CI.
+- Enlaces a la ficha desde portada, navegación, resúmenes español/inglés, prensa, premios, rutas y referencias; incorporación al sitemap sin duplicar las páginas existentes.
+- Datos estructurados `AboutPage`, `Organization`, `ItemList` y migas de navegación, con la misma identidad de `mundomarino.es`; metadatos sociales para las páginas interiores. Solo los premios concedidos figuran en `Organization.award`.
+- Actualización del índice de prensa con El Periòdic (14 de octubre), Mundo Deportivo (9 de octubre) y A3E (8 de octubre), enlazando sus originales y las fichas ya existentes de la sala de prensa. El anuncio de la travesía de Altea no se presenta como actividad ya realizada.
+- Revisión pública de los nueve destinos y seis productos: todas las fichas responden y la puesta de sol de Almería ya tiene el H1 correcto. Se mantienen precios, plazas y vigencias fuera de las afirmaciones no verificadas.
+- Conservación de la verificación de Search Console, de los cinco PDF originales y del archivo de 2025. Publicación y acceso HTTP no equivalen a indexación ni a mejora de posición medida.
+
 ## 2026-10-13
 
 - Pruebas ampliadas de navegación móvil, enlaces externos, rastreo y documentación histórica tras el despliegue.
