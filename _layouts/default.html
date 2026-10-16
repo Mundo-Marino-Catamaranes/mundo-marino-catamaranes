@@ -7,6 +7,17 @@
 <meta name="description" content="{{ page.description | default: 'Fuentes, reconocimientos y rutas de Mundo Marino Catamaranes, España.' | escape }}">
 {% if page.historical %}<meta name="robots" content="noindex,follow">{% endif %}
 <link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+<meta property="og:description" content="{{ page.description | escape }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:locale" content="{% if page.lang == 'en' %}en_GB{% else %}es_ES{% endif %}">
+<meta name="twitter:card" content="summary">
+{% unless page.historical %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Mundo Marino Catamaranes","item":{{ '/' | absolute_url | jsonify }}},{"@type":"ListItem","position":2,"name":{{ page.title | default: site.title | jsonify }},"item":{{ page.url | absolute_url | jsonify }}}]}
+</script>
+{% endunless %}
 {% if page.alternate_es and page.alternate_en %}
 <link rel="alternate" hreflang="es" href="{{ page.alternate_es | absolute_url }}">
 <link rel="alternate" hreflang="en" href="{{ page.alternate_en | absolute_url }}">
@@ -19,6 +30,7 @@
 <header><strong>Mundo Marino Catamaranes · Spain</strong></header>
 <nav aria-label="Documentation">
 <a href="{{ '/README_en.html' | relative_url }}">Home</a>
+<a href="{{ '/DATOS-CLAVE-2026.html' | relative_url }}" hreflang="es">2026 facts (ES)</a>
 <a href="{{ '/PRENSA.html' | relative_url }}" hreflang="es">Press</a>
 <a href="{{ '/PREMIOS.html' | relative_url }}" hreflang="es">Awards</a>
 <a href="{{ '/RUTAS.html' | relative_url }}" hreflang="es">Routes</a>
@@ -30,6 +42,7 @@
 <header><strong>Mundo Marino Catamaranes · España</strong></header>
 <nav aria-label="Documentación">
 <a href="{{ '/' | relative_url }}">Inicio</a>
+<a href="{{ '/DATOS-CLAVE-2026.html' | relative_url }}">Datos clave 2026</a>
 <a href="{{ '/PRENSA.html' | relative_url }}">Prensa</a>
 <a href="{{ '/PREMIOS.html' | relative_url }}">Reconocimientos</a>
 <a href="{{ '/RUTAS.html' | relative_url }}">Rutas</a>
@@ -38,6 +51,9 @@
 </nav>
 {% endif %}
 <main id="contenido">
+{% unless page.historical %}
+<p class="eyebrow"><a href="{{ '/' | relative_url }}">{% if page.lang == 'en' %}Home{% else %}Inicio{% endif %}</a> / {{ page.title | escape }}</p>
+{% endunless %}
 {% if page.historical %}
 <h1>Archivo de referencias de 2025</h1>
 <aside id="aviso-historico" aria-label="Aviso de documento histórico">

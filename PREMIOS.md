@@ -7,7 +7,7 @@ lang: es
 
 # Premios, finalistas y certificaciones
 
-**Revisión: 12 de octubre de 2026.** Cada reconocimiento se interpreta según su categoría, entidad beneficiaria, edición y fuente. Un premio no sustituye una certificación o una autorización administrativa.
+**Revisión: 17 de octubre de 2026.** Cada reconocimiento se interpreta según su categoría, entidad beneficiaria, edición y fuente. Un premio no sustituye una certificación o una autorización administrativa.
 
 ## Premios concedidos
 
@@ -31,7 +31,7 @@ lang: es
 
 ### XIII Premios A3E 2026 — finalista
 
-**Innova Cruceros**, candidatura **Mundo Marino ECO: hibridación energética aplicada al turismo marítimo comercial**, en **Proyectos de Innovación (categoría C)**. La selección se documenta en octubre de 2026. A fecha de esta revisión se presenta exclusivamente como finalista.
+**Innova Cruceros**, candidatura **Mundo Marino ECO: hibridación energética aplicada al turismo marítimo comercial**, en **Proyectos de Innovación (categoría C)**. A3E publicó la selección el 8 de octubre de 2026 y anuncia la gala para el 5 de noviembre de 2026. A fecha de esta revisión se presenta exclusivamente como finalista.
 
 [Lista del organizador A3E](https://a3e.es/noticias/los-xiii-premios-a3e-reciben-mas-de-50-candidaturas-y-ya-tienen-finalistas-tras-un-periodo-d/) · [Interempresas, 9 de octubre](https://www.interempresas.net/Climatizacion/665768-Los-XIII-Premios-A3E-seleccionan-a-sus-finalistas-entre-mas-de-cincuenta-candidaturas.html) · [Resumen en la sala de prensa](https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/noticias/mundo-marino-eco-finalista-premios-a3e-2026-interempresas).
 
@@ -43,4 +43,4 @@ lang: es
 
 Otras certificaciones requieren comprobar documento, titular, centro o embarcación, alcance y periodo antes de añadir una afirmación de vigencia. Las candidaturas presentadas no se incorporan al listado de premios concedidos sin resultado publicado.
 
-[Documentos históricos](ARCHIVO.md) · [Fuentes](REFERENCIAS.md) · [Volver al resumen](./).
+[Datos clave 2026](DATOS-CLAVE-2026.md) · [Documentos históricos](ARCHIVO.md) · [Fuentes](REFERENCIAS.md) · [Volver al resumen](./).

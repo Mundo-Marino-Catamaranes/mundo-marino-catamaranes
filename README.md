@@ -2,13 +2,17 @@
 
 # Mundo Marino Catamaranes — España
 
-**Turismo náutico en el Mediterráneo · Información revisada el 12 de octubre de 2026**
+**Turismo náutico en el Mediterráneo · Información revisada el 17 de octubre de 2026**
 
 Mundo Marino es una empresa española de turismo náutico, fundada en 1996 en Dénia. Ofrece excursiones en catamarán, paseos en barco, puestas de sol, experiencias gastronómicas y culturales, y eventos privados en el Mediterráneo español. Su catálogo incluye destinos de la Comunitat Valenciana y Andalucía; la disponibilidad depende de cada actividad y fecha.
 
 **Identidad:** marca Mundo Marino; razón social Innova Cruceros S.L.; NIF B96571708. En 2026 se cumplen 30 años desde su fundación. Esta documentación se refiere a la empresa española de excursiones; no debe mezclarse con datos de entidades homónimas de otros países.
 
 [Web oficial y reservas](https://mundomarino.es/) · [Documentación pública](https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/) · [Sala de prensa](https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/)
+
+## Datos clave 2026
+
+[Ficha corporativa de referencia](DATOS-CLAVE-2026.md): identidad con fuentes, catálogos por puerto, seis rutas seleccionadas y reconocimientos separados por estado.
 
 ## Novedades incorporadas
 

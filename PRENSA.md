@@ -7,15 +7,33 @@ lang: es
 
 # Mundo Marino en los medios
 
-**Índice revisado el 12 de octubre de 2026.** La fecha de cada entrada corresponde a la publicación original, no a esta revisión. Los encabezados siguientes son resúmenes descriptivos; los artículos completos pertenecen a sus editores.
+**Índice revisado el 17 de octubre de 2026.** La fecha de cada entrada corresponde a la publicación original, no a esta revisión. Los encabezados siguientes son resúmenes descriptivos; los artículos completos pertenecen a sus editores.
 
-[Sala de prensa de Mundo Marino](https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/) · [Archivo de referencias](REFERENCIAS.md).
+[Datos clave 2026](DATOS-CLAVE-2026.md) · [Sala de prensa de Mundo Marino](https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/) · [Archivo de referencias](REFERENCIAS.md).
+
+## 2026-10-14 · El Periòdic
+
+**Travesía divulgativa anunciada en Altea.** La noticia identifica la caseta de Mundo Marino como punto de encuentro de la actividad de Turisme Altea prevista para el 17 de octubre. Se documenta el anuncio, sin dar por realizada la salida ni confirmar plazas.
+
+**Tipo:** Prensa local. [Publicación original](https://www.elperiodic.com/altea/turisme-altea-organiza-travesia-catamaran-para-poner-valor-patrimonio-natural-bahia-altea_1097404) · [Ficha de la sala de prensa](https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/noticias/el-periodic-mundo-marino-travesia-divulgativa-altea-2026).
+
+## 2026-10-09 · Mundo Deportivo
+
+**Colaboración en la final de vela femenina de Altea.** La cobertura de la Liga Iberdrola cita a Mundo Marino entre las entidades colaboradoras; esta mención no se presenta como un premio.
+
+**Tipo:** Prensa deportiva. [Publicación original](https://www.mundodeportivo.com/vela/20261009/1004236512/altea-decide-titulo-liga-iberdrola-vela-femenina.html) · [Ficha de la sala de prensa](https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/noticias/mundo-marino-liga-iberdrola-vela-femenina-altea-2026-medios).
 
 ## 2026-10-09 · Interempresas
 
 **Finalistas de los XIII Premios A3E.** Innova Cruceros figura con Mundo Marino ECO en la selección de proyectos de innovación; no se anuncia como ganador.
 
 **Tipo:** Prensa sectorial. [Consultar publicación original](https://www.interempresas.net/Climatizacion/665768-Los-XIII-Premios-A3E-seleccionan-a-sus-finalistas-entre-mas-de-cincuenta-candidaturas.html).
+
+## 2026-10-08 · A3E
+
+**Lista oficial de finalistas.** El organizador incluye a Innova Cruceros con Mundo Marino ECO en la categoría C y anuncia la gala para el 5 de noviembre de 2026. Se conserva el estado de finalista.
+
+**Tipo:** Comunicación del organizador. [Publicación original](https://a3e.es/noticias/los-xiii-premios-a3e-reciben-mas-de-50-candidaturas-y-ya-tienen-finalistas-tras-un-periodo-d/).
 
 ## 2026-09-22 · La Voz de Almería
 

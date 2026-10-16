@@ -47,6 +47,22 @@ def main():
     require(ports == es["puertos"] == en["ports"], "Destination mismatch")
     require(es["empresa"]["cif"] == en["company"]["tax_id"] == company["taxID"], "Tax ID mismatch")
     routes = json.loads((ROOT / "routes.json").read_text(encoding="utf-8"))["routes"]
+    route_data = json.loads((ROOT / "routes.json").read_text(encoding="utf-8"))
+    require([p["name"] for p in route_data["ports"]] == ports, "Port catalogue and identity mismatch")
+    require(len({p["official_catalogue_url"] for p in route_data["ports"]}) == len(ports),
+            "Duplicate port catalogue")
+    for port in route_data["ports"]:
+        require(urlsplit(port["official_catalogue_url"]).netloc == "mundomarino.es", "Non-official port catalogue")
+    facts = json.loads((ROOT / "facts-2026.json").read_text(encoding="utf-8"))
+    recognitions = facts["recognitions"]
+    require(len({r["id"] for r in recognitions}) == len(recognitions), "Duplicate recognition IDs")
+    require(company["award"] == [r["label"] for r in recognitions if r["status"] == "awarded"],
+            "Organization awards must contain granted awards only")
+    require(next(r for r in recognitions if r["id"] == "a3e-2026")["status"] == "finalist",
+            "A3E 2026 is documented as a finalist, not a winner")
+    require(all(r["status"] in {"awarded", "finalist", "distinction_reported", "historical_certification"}
+                and r["source_url"].startswith("https://") and r["scope"] for r in recognitions),
+            "Recognition lacks a supported status, scope or source")
     require(len(routes) == 6, "Expected six reviewed routes")
     require(len({r["id"] for r in routes}) == len(routes), "Duplicate route IDs")
     require(sum(r["destination"] == "Almería" for r in routes) == 4, "Almería catalogue mismatch")
@@ -60,7 +76,8 @@ def main():
     require(json.loads(page.jsonld) == company, "Embedded JSON-LD differs from company.json")
     sitemap = ElementTree.parse(ROOT / "sitemap.xml")
     locations = sitemap.findall(".//{http://www.sitemaps.org/schemas/sitemap/0.9}loc")
-    require(len(locations) == 7, "Expected seven sitemap pages in the correct XML namespace")
+    require(len(locations) == 8, "Expected eight sitemap pages in the correct XML namespace")
+    require(facts["canonical_page"] in {loc.text for loc in locations}, "Corporate fact sheet missing from sitemap")
     require(len({loc.text for loc in locations}) == len(locations), "Duplicate sitemap URLs")
     for loc in locations:
         require(loc.text.startswith(BASE), "Sitemap contains a different host/path")
@@ -73,7 +90,8 @@ def main():
             target = ROOT / unquote(link.split("#")[0])
             require(target.exists(), f"Broken local link in {doc.name}: {link}")
     subprocess.run([sys.executable, str(ROOT / "scripts/generate_readme.py"), "--check"], check=True)
-    print("OK: JSON, identity, six routes, local links, HTML and sitemap. External availability not tested.")
+    subprocess.run([sys.executable, str(ROOT / "scripts/generate_facts.py"), "--check"], check=True)
+    print("OK: JSON, identity, nine ports, six routes, recognition states, generated fact sheet, links, HTML and sitemap. Live inventory not tested.")
 
 if __name__ == "__main__":
     main()

@@ -79,6 +79,11 @@
   "subjectOf": [
     {
       "@type": "WebPage",
+      "name": "Datos clave 2026 — ficha corporativa con fuentes",
+      "url": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/DATOS-CLAVE-2026.html"
+    },
+    {
+      "@type": "WebPage",
       "name": "Sala de prensa de Mundo Marino",
       "url": "https://mundo-marino-sala-prensa.mundo-marino.chatgpt.site/"
     },

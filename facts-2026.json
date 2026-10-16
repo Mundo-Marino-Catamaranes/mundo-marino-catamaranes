@@ -1,0 +1,62 @@
+{
+  "reviewed_on": "2026-10-17",
+  "canonical_page": "https://mundo-marino-catamaranes.github.io/mundo-marino-catamaranes/DATOS-CLAVE-2026.html",
+  "identity_file": "company.json",
+  "routes_file": "routes.json",
+  "identity_sources": [
+    {"name": "Aviso legal: razón social, NIF y contacto", "url": "https://mundomarino.es/aviso-legal/"},
+    {"name": "Perfil corporativo: fundación en 1996", "url": "https://www.linkedin.com/company/mundo-marino-catamaranes/"},
+    {"name": "Catálogo oficial por puerto", "url": "https://mundomarino.es/"}
+  ],
+  "recognitions": [
+    {
+      "id": "malaga-2022", "status": "awarded",
+      "label": "Premios Turismo Ciudad de Málaga 2022 — Iniciativa Empresarial",
+      "scope": "Premio concedido a Mundo Marino en la edición 2022.",
+      "source_type": "Administración turística",
+      "source_url": "https://visita.malaga.eu/profesional/es/prensa/noticias/malaga-celebra-la-tercera-edicion-de-los-premios-de-turismo-ciudad-de-malaga-p1833"
+    },
+    {
+      "id": "sunblue-2024", "status": "awarded",
+      "label": "Premios Sun&Blue 2024 — Experiencia en Cruceros Sostenibles; proyecto Mundo marino sostenible",
+      "scope": "Categoría y proyecto del palmarés; beneficiario publicado: Mundo Marino Catamarán.",
+      "source_type": "Organizador",
+      "source_url": "https://sunandbluecongress.com/es/actualidad/premios-sunblue-2024-entrega-12-galardones-y-2-menciones-especiales"
+    },
+    {
+      "id": "tourism4nature-2025", "status": "awarded",
+      "label": "Tourism4Nature 2025 — Primer Premio en actividades turísticas",
+      "scope": "Atribuido a Mundo Marino Catamaranes en un artículo de Arturo Crosby, publicado el 20 de noviembre de 2025.",
+      "source_type": "Comunidad Hosteltur; artículo de autor",
+      "source_url": "https://www.hosteltur.com/comunidad/006233_la-nueva-era-del-turismo-ya-comenzo-los-premiados-tourism4nature-2025-senalan-el-camino.html"
+    },
+    {
+      "id": "excelencia-turistica", "status": "awarded",
+      "label": "Premios a la Excelencia Turística — Mejor Proyecto de Turismo Responsable en Sostenibilidad Marina y Educación Ambiental",
+      "scope": "El organizador atribuye el premio a Mundo Marino Catamaranes. La fecha de gala de su texto y la fecha de la URL difieren; no se normaliza una fecha exacta.",
+      "source_type": "Organizador",
+      "source_url": "https://premiosalaexcelenciaturistica.com/index.php/2025/05/17/mundo-marino-mejor-proyecto-de-turismo-responsable-en-sostenibilidad-marina-y-educacion-ambiental-2/"
+    },
+    {
+      "id": "a3e-2026", "status": "finalist",
+      "label": "XIII Premios A3E 2026 — finalista, categoría C: Proyectos de Innovación",
+      "scope": "Innova Cruceros: Mundo Marino ECO, hibridación energética aplicada al turismo marítimo comercial. Selección publicada por A3E el 8 de octubre de 2026; no es un premio ganado. El organizador anuncia la gala para el 5 de noviembre de 2026.",
+      "source_type": "Organizador",
+      "source_url": "https://a3e.es/noticias/los-xiii-premios-a3e-reciben-mas-de-50-candidaturas-y-ya-tienen-finalistas-tras-un-periodo-d/"
+    },
+    {
+      "id": "bandera-azul-2026", "status": "distinction_reported",
+      "label": "Bandera Azul 2026 — Mundo Marino DOS, Dénia",
+      "scope": "La noticia identifica esta embarcación y edición; no se extiende al conjunto de la flota.",
+      "source_type": "Radio Dénia / Cadena SER, 5 de mayo de 2026",
+      "source_url": "https://cadenaser.com/comunitat-valenciana/2026/05/05/la-marina-alta-revalida-su-liderazgo-en-calidad-turistica-con-20-banderas-azules-en-playas-y-6-en-puertos-en-2026-radio-denia/"
+    },
+    {
+      "id": "starlight-2024", "status": "historical_certification",
+      "label": "Empresa Starlight — incorporación documentada en 2024",
+      "scope": "La Fundación Starlight publicó la incorporación el 4 de junio de 2024. Esta fuente no acredita una renovación en 2026.",
+      "source_type": "Fundación Starlight",
+      "source_url": "https://fundacionstarlight.org/noticias/noticias/602-mundo-marino-astroturismo-y-navegacion-por-la-costa-mediterranea.html"
+    }
+  ]
+}
